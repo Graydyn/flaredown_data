@@ -49,7 +49,7 @@ def find_distances(condition_rows, treatment, other_treatments, condition):
         if (not np.isnan(treatment1_values).any()) and (not np.isnan(treatment2_values).any()):
             if distance_metric == 'cosine':
                 print "comparing " + treatment + " " + treatment2
-                print treatment1_values
+                print users_with_treatment2
                 print treatment2_values
                 cos_distance = distance.cosine(treatment1_values, treatment2_values)
                 treatment_correlations[treatment2] = cos_distance
