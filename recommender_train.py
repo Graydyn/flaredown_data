@@ -48,9 +48,6 @@ def find_distances(condition_rows, treatment, other_treatments, condition):
         treatment2_values = condition_rows[(condition_rows['user_id'].isin(users_with_treatment2)) & (condition_rows['treatment'] == treatment2)]['effectiveness']
         if (not np.isnan(treatment1_values).any()) and (not np.isnan(treatment2_values).any()):
             if distance_metric == 'cosine':
-                print "comparing " + treatment + " " + treatment2
-                print users_with_treatment2
-                print treatment2_values
                 cos_distance = distance.cosine(treatment1_values, treatment2_values)
                 treatment_correlations[treatment2] = cos_distance
             else: #pearson
@@ -80,5 +77,5 @@ for condition in conditions:
         distances = find_distances(affected_rows, treatment, other_treatments, condition)
         result = result.append(distances, ignore_index=True)
 
-    result.to_csv(modeldir + '/' + condition + "_" + distance_metric + ".csv", index=False)
+    result.to_csv(modeldir + '/' + condition.replace('/', '').replace("\n","").replace("\r","") + "_" + distance_metric + ".csv", index=False)
     #print result
