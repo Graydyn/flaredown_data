@@ -7,6 +7,7 @@
 import numpy as np
 import pandas as pd
 import sys
+import functools
 
 if len(sys.argv) < 3:
     print "Usage: python recommender_predict.py datafile modelfile distance_metric"
@@ -36,7 +37,7 @@ def find_closest(x, treatement_correlations):
                 highestCorrelationKey = treatment2_column
     return highestCorrelationValue,highestCorrelationKey
 
-conditions = list(set(df['condition']))
+conditions = list(set(test_df['condition']))
 
 #I'm just taking the highest and lowest predicted effectiveness for all conditions, could just as easily do this per condition
 highestPredictedValue = 0 
@@ -48,7 +49,8 @@ lowestPredictedCondition = ""
 for condition in conditions:
     condition_rows = test_df[test_df['condition'] == condition]
     correlations = pd.read_csv(modeldir + '/' + condition.replace('/', '').replace("\n","").replace("\r","") + "_" + distance_metric + ".csv")
-    condition_rows['closest_correlation_value'], condition_rows['closest_correlation_key'] = condition_rows.groupby('user_id')['treatment'].transform(find_closest, args=correlations)
+    find_closest_func = functools.partial(find_closest,correlations)
+    condition_rows['closest_correlation_value'], condition_rows['closest_correlation_key'] = condition_rows.groupby('user_id')['treatment'].transform(find_closest_func)
     predicted_value = condition_rows[condition_rows['treatment'] == corr_key]['effectiveness'].values[0]
     if highestPredictedValue < predicted_value:
         highestPredictedValue = predicted_value

@@ -1,3 +1,4 @@
+user_id,condition,treatment,before_value,after_value,effectiveness
 52.0,44.0,female,US,Allergy,Escitalopram,1.08333333333,0.5,0.583333333333
 52.0,44.0,female,US,Allergy,Magnesium,0.8,0.333333333333,0.466666666667
 52.0,44.0,female,US,Anxiety,Escitalopram,2.06666666667,0.5,1.56666666667
