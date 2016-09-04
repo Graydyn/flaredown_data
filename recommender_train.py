@@ -1,6 +1,6 @@
 ### Usage: python recommender_train.py datafile modeldir <pearson|cosine> threshold
-### Sample: python recommender_train.py effectiveness_083016.csv models
-### Sample: python recommender_train.py effectiveness_083016.csv models pearson 0.05
+### Example: python recommender_train.py effectiveness_083016.csv models
+### Example: python recommender_train.py effectiveness_083016.csv models pearson 0.05
 
 ### This script takes in the pre-processed datafile from treatment_effectiveness.ipynb and measures the cosine distance
 ### between the effectiveness of all tags/treatments.  It then outputs a cosine distance table for each condition, which

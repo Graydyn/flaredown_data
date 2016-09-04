@@ -1,6 +1,6 @@
 ### Usage: python recommender_predict.py datafile modeldir <pearson|cosine>
-### Sample: python recommender_predict.py effectiveness_test.csv models
-### Sample: python recommender_predict.py effectiveness_test.csv models pearson
+### Example: python recommender_predict.py effectiveness_test.csv models
+### Example: python recommender_predict.py effectiveness_test.csv models pearson
 
 ### Takes in a single user's effectiveness measurements and determines what the most and least effect treatements for them will be
 
@@ -26,17 +26,21 @@ if len(sys.argv) == 4:
         print "distance metric must be pearson or cosine"
         quit()
 
-def find_closest(x, treatement_correlations):
+def find_closest(x, treatment_correlations):
     highestCorrelationValue = 0
     highestCorrelationKey = ""
-    for treatement1 in x:
-        if treatement1 in treatment_correlations.index:
-            treatment2_column = treatment_correlations.index[treatement1].idxmax(axis=1)
+    for treatment1 in x:
+        if treatment1 in treatment_correlations.index:
+            treatment2_column = treatment_correlations.index[treatment1].idxmax(axis=1)
             if treatment_correlations[treatment2_column] > highestCorrelationValue:
                 highestCorrelationValue = treatment_correlations[treatment2_column]
                 highestCorrelationKey = treatment2_column
+    print highestCorrelationKey
+    print highestCorrelationValue
     return highestCorrelationValue,highestCorrelationKey
 
+#get a list of all the conditions this user has
+#we will search each of them to see which one is most actionable
 conditions = list(set(test_df['condition']))
 
 #I'm just taking the highest and lowest predicted effectiveness for all conditions, could just as easily do this per condition
@@ -49,8 +53,9 @@ lowestPredictedCondition = ""
 for condition in conditions:
     condition_rows = test_df[test_df['condition'] == condition]
     correlations = pd.read_csv(modeldir + '/' + condition.replace('/', '').replace("\n","").replace("\r","") + "_" + distance_metric + ".csv")
-    find_closest_func = functools.partial(find_closest,correlations)
-    condition_rows['closest_correlation_value'], condition_rows['closest_correlation_key'] = condition_rows.groupby('user_id')['treatment'].transform(find_closest_func)
+    find_closest_func = functools.partial(find_closest,correlations) #this is so I can pass an argument into my transform function
+    condition_rows['closest_correlation_value'] = condition_rows.groupby('user_id')['treatment'].transform(find_closest_func)
+    print condition_rows['closest_correlation_value']
     predicted_value = condition_rows[condition_rows['treatment'] == corr_key]['effectiveness'].values[0]
     if highestPredictedValue < predicted_value:
         highestPredictedValue = predicted_value
