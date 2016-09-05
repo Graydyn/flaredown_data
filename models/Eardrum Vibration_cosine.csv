@@ -1,6 +1,6 @@
-Clonazepam,Hydroxychloroquine,Nabumetone,Vyvanse,Gabapentin
-,0.0,0.0,0.0,
-0.0,,0.0,0.0,
-0.0,0.0,,0.0,
-0.0,0.0,0.0,,
-,,,,
+Clonazepam,Hydroxychloroquine,Nabumetone,Vyvanse,Gabapentin,row
+,0.0,0.0,0.0,,Clonazepam
+0.0,,0.0,0.0,,Hydroxychloroquine
+0.0,0.0,,0.0,,Nabumetone
+0.0,0.0,0.0,,,Vyvanse
+,,,,,Gabapentin

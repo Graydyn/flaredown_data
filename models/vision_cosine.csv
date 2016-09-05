@@ -1,5 +1,5 @@
-THC,excedrin migraine,Resrticted diet,Excedrin tension headache
-,,0.0,
-,,,0.0
-0.0,,,
-,0.0,,
+THC,excedrin migraine,Resrticted diet,Excedrin tension headache,row
+,,0.0,,THC
+,,,0.0,excedrin migraine
+0.0,,,,Resrticted diet
+,0.0,,,Excedrin tension headache

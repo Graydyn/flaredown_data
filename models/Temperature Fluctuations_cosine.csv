@@ -1,7 +1,7 @@
-Alcohol,Hydroxyzine,eye ointment,Ambien CR,Ibuprofen,cocodamol
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,2.0
-,,,,2.0,
+Alcohol,Hydroxyzine,eye ointment,Ambien CR,Ibuprofen,cocodamol,row
+,,,,,,Alcohol
+,,,,,,Hydroxyzine
+,,,,,,eye ointment
+,,,,,,Ambien CR
+,,,,,2.0,Ibuprofen
+,,,,2.0,,cocodamol

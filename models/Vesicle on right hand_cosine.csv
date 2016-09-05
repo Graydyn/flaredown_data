@@ -1,9 +1,9 @@
-Lying flat,Protecting back,Alcohol,Hydroxyzine,eye ointment,Ambien CR,Miralax low dose at night,drawing
-,0.0,,,,,0.0,0.0
-0.0,,,,,,0.0,0.0
-,,,0.0,0.0,0.0,,
-,,0.0,,0.0,0.0,,
-,,0.0,0.0,,0.0,,
-,,0.0,0.0,0.0,,,
-0.0,0.0,,,,,,0.0
-0.0,0.0,,,,,0.0,
+Lying flat,Protecting back,Alcohol,Hydroxyzine,eye ointment,Ambien CR,Miralax low dose at night,drawing,row
+,0.0,,,,,0.0,0.0,Lying flat
+0.0,,,,,,0.0,0.0,Protecting back
+,,,0.0,0.0,0.0,,,Alcohol
+,,0.0,,0.0,0.0,,,Hydroxyzine
+,,0.0,0.0,,0.0,,,eye ointment
+,,0.0,0.0,0.0,,,,Ambien CR
+0.0,0.0,,,,,,0.0,Miralax low dose at night
+0.0,0.0,,,,,0.0,,drawing

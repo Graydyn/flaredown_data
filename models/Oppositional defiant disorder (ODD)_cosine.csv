@@ -1,8 +1,8 @@
-Kalb,went to library,Moms birthday,walked,couldn't sleep because homework,saw a movie,Anna
-,2.0,2.0,2.0,2.0,2.0,2.0
-2.0,,0.0,0.0,0.0,0.0,0.0
-2.0,0.0,,0.0,0.0,0.0,0.0
-2.0,0.0,0.0,,0.0,0.0,0.0
-2.0,0.0,0.0,0.0,,0.0,0.0
-2.0,0.0,0.0,0.0,0.0,,0.0
-2.0,0.0,0.0,0.0,0.0,0.0,
+Kalb,went to library,Moms birthday,walked,couldn't sleep because homework,saw a movie,Anna,row
+,2.0,2.0,2.0,2.0,2.0,2.0,Kalb
+2.0,,0.0,0.0,0.0,0.0,0.0,went to library
+2.0,0.0,,0.0,0.0,0.0,0.0,Moms birthday
+2.0,0.0,0.0,,0.0,0.0,0.0,walked
+2.0,0.0,0.0,0.0,,0.0,0.0,couldn't sleep because homework
+2.0,0.0,0.0,0.0,0.0,,0.0,saw a movie
+2.0,0.0,0.0,0.0,0.0,0.0,,Anna

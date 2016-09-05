@@ -1,7 +1,7 @@
-Allegra,Singulair,Meticorten,Bagomicina,Ketotifeno,Calcort
-,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,
+Allegra,Singulair,Meticorten,Bagomicina,Ketotifeno,Calcort,row
+,0.0,0.0,0.0,0.0,0.0,Allegra
+0.0,,0.0,0.0,0.0,0.0,Singulair
+0.0,0.0,,0.0,0.0,0.0,Meticorten
+0.0,0.0,0.0,,0.0,0.0,Bagomicina
+0.0,0.0,0.0,0.0,,0.0,Ketotifeno
+0.0,0.0,0.0,0.0,0.0,,Calcort

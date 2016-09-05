@@ -1,7 +1,7 @@
-colofac mr,Medication,Migraine Diet,wear mask,Fruit,Low-FODMAP diet
-,0.0,0.0,0.0,2.0,0.0
-0.0,,0.0,0.0,2.0,0.0
-0.0,0.0,,0.0,2.0,0.0
-0.0,0.0,0.0,,2.0,0.0
-2.0,2.0,2.0,2.0,,2.0
-0.0,0.0,0.0,0.0,2.0,
+colofac mr,Medication,Migraine Diet,wear mask,Fruit,Low-FODMAP diet,row
+,0.0,0.0,0.0,2.0,0.0,colofac mr
+0.0,,0.0,0.0,2.0,0.0,Medication
+0.0,0.0,,0.0,2.0,0.0,Migraine Diet
+0.0,0.0,0.0,,2.0,0.0,wear mask
+2.0,2.0,2.0,2.0,,2.0,Fruit
+0.0,0.0,0.0,0.0,2.0,,Low-FODMAP diet

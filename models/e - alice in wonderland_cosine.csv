@@ -1,7 +1,7 @@
-sugar free diet,Selenium,Lexapro,Meditation,massage,Gabapentin
-,,,,,
-,,,,,
-,,,0.0,2.0,0.0
-,,0.0,,2.0,0.0
-,,2.0,2.0,,2.0
-,,0.0,0.0,2.0,
+sugar free diet,Selenium,Lexapro,Meditation,massage,Gabapentin,row
+,,,,,,sugar free diet
+,,,,,,Selenium
+,,,0.0,2.0,0.0,Lexapro
+,,0.0,,2.0,0.0,Meditation
+,,2.0,2.0,,2.0,massage
+,,0.0,0.0,2.0,,Gabapentin

@@ -1,5 +1,5 @@
-Went to work,Missed last night's meds,good sleep,stressed
-,2.0,2.0,0.0
-2.0,,0.0,2.0
-2.0,0.0,,2.0
-0.0,2.0,2.0,
+Went to work,Missed last night's meds,good sleep,stressed,row
+,2.0,2.0,0.0,Went to work
+2.0,,0.0,2.0,Missed last night's meds
+2.0,0.0,,2.0,good sleep
+0.0,2.0,2.0,,stressed

@@ -1,12 +1,12 @@
-Thyroxine,Probiotic,Medicinal Herbs,Miralax low dose PM,Phenergan,Andrographis compound,Metoprolol,Drinking eight glasses or more of water,Magnesium amino acid chelate,Vitamin b complex,Complex b
-,0.0,,2.0,0.0,2.0,,0.0,0.0,0.0,2.0
-0.0,,,2.0,0.0,2.0,,0.0,0.0,0.0,2.0
-,,,,,,0.0,,,,
-2.0,2.0,,,2.0,0.0,,2.0,2.0,2.0,0.0
-0.0,0.0,,2.0,,2.0,,0.0,0.0,0.0,2.0
-2.0,2.0,,0.0,2.0,,,2.0,2.0,2.0,0.0
-,,0.0,,,,,,,,
-0.0,0.0,,2.0,0.0,2.0,,,0.0,0.0,2.0
-0.0,0.0,,2.0,0.0,2.0,,0.0,,0.0,2.0
-0.0,0.0,,2.0,0.0,2.0,,0.0,0.0,,2.0
-2.0,2.0,,0.0,2.0,0.0,,2.0,2.0,2.0,
+Thyroxine,Probiotic,Medicinal Herbs,Miralax low dose PM,Phenergan,Andrographis compound,Metoprolol,Drinking eight glasses or more of water,Magnesium amino acid chelate,Vitamin b complex,Complex b,row
+,0.0,,2.0,0.0,2.0,,0.0,0.0,0.0,2.0,Thyroxine
+0.0,,,2.0,0.0,2.0,,0.0,0.0,0.0,2.0,Probiotic
+,,,,,,0.0,,,,,Medicinal Herbs
+2.0,2.0,,,2.0,0.0,,2.0,2.0,2.0,0.0,Miralax low dose PM
+0.0,0.0,,2.0,,2.0,,0.0,0.0,0.0,2.0,Phenergan
+2.0,2.0,,0.0,2.0,,,2.0,2.0,2.0,0.0,Andrographis compound
+,,0.0,,,,,,,,,Metoprolol
+0.0,0.0,,2.0,0.0,2.0,,,0.0,0.0,2.0,Drinking eight glasses or more of water
+0.0,0.0,,2.0,0.0,2.0,,0.0,,0.0,2.0,Magnesium amino acid chelate
+0.0,0.0,,2.0,0.0,2.0,,0.0,0.0,,2.0,Vitamin b complex
+2.0,2.0,,0.0,2.0,0.0,,2.0,2.0,2.0,,Complex b

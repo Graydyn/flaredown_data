@@ -1,8 +1,8 @@
-Allegra,Coffee,Quell Unit,Ventolin,Thyroid-Pro,Topamax,Ropinirole
-,0.0,,0.0,,0.0,0.0
-0.0,,,0.0,,0.0,0.0
-,,,,,,
-0.0,0.0,,,,0.0,0.0
-,,,,,,
-0.0,0.0,,0.0,,,0.0
-0.0,0.0,,0.0,,0.0,
+Allegra,Coffee,Quell Unit,Ventolin,Thyroid-Pro,Topamax,Ropinirole,row
+,0.0,,0.0,,0.0,0.0,Allegra
+0.0,,,0.0,,0.0,0.0,Coffee
+,,,,,,,Quell Unit
+0.0,0.0,,,,0.0,0.0,Ventolin
+,,,,,,,Thyroid-Pro
+0.0,0.0,,0.0,,,0.0,Topamax
+0.0,0.0,,0.0,,0.0,,Ropinirole

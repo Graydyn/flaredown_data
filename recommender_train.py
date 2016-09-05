@@ -42,6 +42,7 @@ df = pd.read_csv(file)
 
 def find_distances(condition_rows, treatment, other_treatments, condition):
     treatment_correlations = {}
+    treatment_correlations['row'] = treatment
     for treatment2 in other_treatments:
         users_with_treatment2 = list(set(condition_rows[condition_rows['treatment'] == treatment2]['user_id']))
         treatment1_values = condition_rows[(condition_rows['user_id'].isin(users_with_treatment2)) & (condition_rows['treatment'] == treatment)]['effectiveness']

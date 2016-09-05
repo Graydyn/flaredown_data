@@ -1,4 +1,4 @@
-tired,Prednisone,stressed
-,2.0,0.0
-2.0,,2.0
-0.0,2.0,
+tired,Prednisone,stressed,row
+,2.0,0.0,tired
+2.0,,2.0,Prednisone
+0.0,2.0,,stressed

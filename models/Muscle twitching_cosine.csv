@@ -1,17 +1,17 @@
-Compression Stockings,Low dose pain meds,Ginkgo,Duexis,Stretching,Zolpidem ER,Ubiquinol,Vitamin b6,Florinef,Uncooked cornstarch,Glutamine,Therapy,cocodamol,Tolterodine,physical therapy,Covocort
-,,,,0.0,,,,,,,0.0,,,0.0,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,0.0,0.0,,0.0,0.0,,2.0,,,
-0.0,,,,,,,,,,,0.0,,,0.0,
-,,,,,,,,,,,,,,,
-,,,0.0,,,,0.0,,0.0,0.0,,2.0,,,
-,,,0.0,,,0.0,,,0.0,0.0,,2.0,,,
-,,,,,,,,,,,,,,,0.0
-,,,0.0,,,0.0,0.0,,,0.0,,2.0,,,
-,,,0.0,,,0.0,0.0,,0.0,,,2.0,,,
-0.0,,,,0.0,,,,,,,,,,0.0,
-,,,2.0,,,2.0,2.0,,2.0,2.0,,,,,
-,,,,,,,,,,,,,,,
-0.0,,,,0.0,,,,,,,0.0,,,,
-,,,,,,,,0.0,,,,,,,
+Compression Stockings,Low dose pain meds,Ginkgo,Duexis,Stretching,Zolpidem ER,Ubiquinol,Vitamin b6,Florinef,Uncooked cornstarch,Glutamine,Therapy,cocodamol,Tolterodine,physical therapy,Covocort,row
+,,,,0.0,,,,,,,0.0,,,0.0,,Compression Stockings
+,,,,,,,,,,,,,,,,Low dose pain meds
+,,,,,,,,,,,,,,,,Ginkgo
+,,,,,,0.0,0.0,,0.0,0.0,,2.0,,,,Duexis
+0.0,,,,,,,,,,,0.0,,,0.0,,Stretching
+,,,,,,,,,,,,,,,,Zolpidem ER
+,,,0.0,,,,0.0,,0.0,0.0,,2.0,,,,Ubiquinol
+,,,0.0,,,0.0,,,0.0,0.0,,2.0,,,,Vitamin b6
+,,,,,,,,,,,,,,,0.0,Florinef
+,,,0.0,,,0.0,0.0,,,0.0,,2.0,,,,Uncooked cornstarch
+,,,0.0,,,0.0,0.0,,0.0,,,2.0,,,,Glutamine
+0.0,,,,0.0,,,,,,,,,,0.0,,Therapy
+,,,2.0,,,2.0,2.0,,2.0,2.0,,,,,,cocodamol
+,,,,,,,,,,,,,,,,Tolterodine
+0.0,,,,0.0,,,,,,,0.0,,,,,physical therapy
+,,,,,,,,0.0,,,,,,,,Covocort

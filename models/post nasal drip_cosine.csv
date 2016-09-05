@@ -1,8 +1,8 @@
-Shoe Insoles,Benadryl,Mt. Si ACDC 2x Coco Caps,N-acetyl cysteine,heating pads,Wristies,Tensor Band
-,0.0,2.0,0.0,2.0,2.0,0.0
-0.0,,2.0,0.0,2.0,2.0,0.0
-2.0,2.0,,2.0,0.0,0.0,2.0
-0.0,0.0,2.0,,2.0,2.0,0.0
-2.0,2.0,0.0,2.0,,0.0,2.0
-2.0,2.0,0.0,2.0,0.0,,2.0
-0.0,0.0,2.0,0.0,2.0,2.0,
+Shoe Insoles,Benadryl,Mt. Si ACDC 2x Coco Caps,N-acetyl cysteine,heating pads,Wristies,Tensor Band,row
+,0.0,2.0,0.0,2.0,2.0,0.0,Shoe Insoles
+0.0,,2.0,0.0,2.0,2.0,0.0,Benadryl
+2.0,2.0,,2.0,0.0,0.0,2.0,Mt. Si ACDC 2x Coco Caps
+0.0,0.0,2.0,,2.0,2.0,0.0,N-acetyl cysteine
+2.0,2.0,0.0,2.0,,0.0,2.0,heating pads
+2.0,2.0,0.0,2.0,0.0,,2.0,Wristies
+0.0,0.0,2.0,0.0,2.0,2.0,,Tensor Band

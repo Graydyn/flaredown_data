@@ -1,10 +1,10 @@
-Forever Aloe Berry,physical therapy,Aleve,Stretching,Garden of Life Raw Meal,Temazepam,Therapy,Compression Stockings,Valium
-,,,,,,,,
-,,0.0,0.0,,,0.0,2.0,
-,0.0,,0.0,,,0.0,2.0,
-,0.0,0.0,,,,0.0,2.0,
-,,,,,,,,
-,,,,,,,,
-,0.0,0.0,0.0,,,,2.0,
-,2.0,2.0,2.0,,,2.0,,
-,,,,,,,,
+Forever Aloe Berry,physical therapy,Aleve,Stretching,Garden of Life Raw Meal,Temazepam,Therapy,Compression Stockings,Valium,row
+,,,,,,,,,Forever Aloe Berry
+,,0.0,0.0,,,0.0,2.0,,physical therapy
+,0.0,,0.0,,,0.0,2.0,,Aleve
+,0.0,0.0,,,,0.0,2.0,,Stretching
+,,,,,,,,,Garden of Life Raw Meal
+,,,,,,,,,Temazepam
+,0.0,0.0,0.0,,,,2.0,,Therapy
+,2.0,2.0,2.0,,,2.0,,,Compression Stockings
+,,,,,,,,,Valium

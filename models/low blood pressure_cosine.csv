@@ -1,14 +1,14 @@
-Charcoal,Acetaminophen plus Codeine Number 3,Contraceptive pill,Inderal,Stretching,Inolaxol,Megaspore,Probiotics,Omeprazole,Low-FODMAP diet,Multi-vitamin,Bicarb on scalp,Iberogast
-,,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0
-,,,0.0,,,0.0,,0.0,,,,
-0.0,,,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,,0.0,0.0,0.0,0.00130438163975,0.0,0.0,0.0,0.0
-,,,,,,,,,,,,
-0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,0.0
-,0.0,,0.0,,,,,0.0,,,,
-0.0,,0.0,0.0,,0.0,,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.00130438163975,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,,0.0,,0.0,0.0,,0.0,0.0,0.0
-0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,,0.0,0.0
-0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0
-0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,
+Charcoal,Acetaminophen plus Codeine Number 3,Contraceptive pill,Inderal,Stretching,Inolaxol,Megaspore,Probiotics,Omeprazole,Low-FODMAP diet,Multi-vitamin,Bicarb on scalp,Iberogast,row
+,,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,Charcoal
+,,,0.0,,,0.0,,0.0,,,,,Acetaminophen plus Codeine Number 3
+0.0,,,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,Contraceptive pill
+0.0,0.0,0.0,,,0.0,0.0,0.0,0.00130438163975,0.0,0.0,0.0,0.0,Inderal
+,,,,,,,,,,,,,Stretching
+0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,0.0,Inolaxol
+,0.0,,0.0,,,,,0.0,,,,,Megaspore
+0.0,,0.0,0.0,,0.0,,,0.0,0.0,0.0,0.0,0.0,Probiotics
+0.0,0.0,0.0,0.00130438163975,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,Omeprazole
+0.0,,0.0,0.0,,0.0,,0.0,0.0,,0.0,0.0,0.0,Low-FODMAP diet
+0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,,0.0,0.0,Multi-vitamin
+0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0,Bicarb on scalp
+0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,,Iberogast

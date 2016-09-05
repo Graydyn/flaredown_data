@@ -1,11 +1,11 @@
-colofac mr,Medication,Acetaminophen plus Codeine Number 3,Migraine Diet,Inderal,wear mask,Megaspore,Fruit,Omeprazole,Low-FODMAP diet
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+colofac mr,Medication,Acetaminophen plus Codeine Number 3,Migraine Diet,Inderal,wear mask,Megaspore,Fruit,Omeprazole,Low-FODMAP diet,row
+,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,colofac mr
+0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Medication
+0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Acetaminophen plus Codeine Number 3
+0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,Migraine Diet
+0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,Inderal
+0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,wear mask
+0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,Megaspore
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,Fruit
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,Omeprazole
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Low-FODMAP diet

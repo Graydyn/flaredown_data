@@ -1,6 +1,6 @@
-Citalopram,Daily walk,Azathioprine,Pentasa,Subling B12
-,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,
+Citalopram,Daily walk,Azathioprine,Pentasa,Subling B12,row
+,0.0,0.0,0.0,0.0,Citalopram
+0.0,,0.0,0.0,0.0,Daily walk
+0.0,0.0,,0.0,0.0,Azathioprine
+0.0,0.0,0.0,,0.0,Pentasa
+0.0,0.0,0.0,0.0,,Subling B12

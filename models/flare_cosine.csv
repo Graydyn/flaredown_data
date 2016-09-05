@@ -1,4 +1,4 @@
-Hydrocortisone,AM meds,Florinef
-,0.0,0.0
-0.0,,0.0
-0.0,0.0,
+Hydrocortisone,AM meds,Florinef,row
+,0.0,0.0,Hydrocortisone
+0.0,,0.0,AM meds
+0.0,0.0,,Florinef

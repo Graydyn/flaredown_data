@@ -1,4 +1,4 @@
-Depressed,Went to work,period
-,0.0,0.0
-0.0,,0.0
-0.0,0.0,
+Depressed,Went to work,period,row
+,0.0,0.0,Depressed
+0.0,,0.0,Went to work
+0.0,0.0,,period

@@ -1,7 +1,7 @@
-gluten,good sleep,exercise,PTSD,ate breakfast,happy
-,2.0,0.0,2.0,2.0,0.0
-2.0,,2.0,0.0,0.0,2.0
-0.0,2.0,,2.0,2.0,0.0
-2.0,0.0,2.0,,0.0,2.0
-2.0,0.0,2.0,0.0,,2.0
-0.0,2.0,0.0,2.0,2.0,
+gluten,good sleep,exercise,PTSD,ate breakfast,happy,row
+,2.0,0.0,2.0,2.0,0.0,gluten
+2.0,,2.0,0.0,0.0,2.0,good sleep
+0.0,2.0,,2.0,2.0,0.0,exercise
+2.0,0.0,2.0,,0.0,2.0,PTSD
+2.0,0.0,2.0,0.0,,2.0,ate breakfast
+0.0,2.0,0.0,2.0,2.0,,happy

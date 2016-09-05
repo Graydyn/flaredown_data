@@ -1,11 +1,11 @@
-Solifenacin,Ritalin,Probiotic,BeachBody OnDemand,Cyclizine,Same,Vitamin b12,Feverfew,Counseling,Passionflower
-,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0
-0.0,,0.0,0.0,0.0,,0.0,0.0,,0.0
-0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0
-0.0,0.0,0.0,,0.0,,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,,,0.0,0.0,,0.0
-,,,,,,,,,
-0.0,0.0,0.0,0.0,0.0,,,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0,,,0.0
-,,,,,,,,,
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,
+Solifenacin,Ritalin,Probiotic,BeachBody OnDemand,Cyclizine,Same,Vitamin b12,Feverfew,Counseling,Passionflower,row
+,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,Solifenacin
+0.0,,0.0,0.0,0.0,,0.0,0.0,,0.0,Ritalin
+0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,Probiotic
+0.0,0.0,0.0,,0.0,,0.0,0.0,,0.0,BeachBody OnDemand
+0.0,0.0,0.0,0.0,,,0.0,0.0,,0.0,Cyclizine
+,,,,,,,,,,Same
+0.0,0.0,0.0,0.0,0.0,,,0.0,,0.0,Vitamin b12
+0.0,0.0,0.0,0.0,0.0,,0.0,,,0.0,Feverfew
+,,,,,,,,,,Counseling
+0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,,Passionflower

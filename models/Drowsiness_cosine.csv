@@ -1,7 +1,7 @@
-Creatine,antihistamines,Acetyl Carnitine,electric wheelchair,Panamax,Soluble Aspirin
-,0.0,0.0,,0.0,0.0
-0.0,,0.0,,0.0,0.0
-0.0,0.0,,,0.0,0.0
-,,,,,
-0.0,0.0,0.0,,,0.0
-0.0,0.0,0.0,,0.0,
+Creatine,antihistamines,Acetyl Carnitine,electric wheelchair,Panamax,Soluble Aspirin,row
+,0.0,0.0,,0.0,0.0,Creatine
+0.0,,0.0,,0.0,0.0,antihistamines
+0.0,0.0,,,0.0,0.0,Acetyl Carnitine
+,,,,,,electric wheelchair
+0.0,0.0,0.0,,,0.0,Panamax
+0.0,0.0,0.0,,0.0,,Soluble Aspirin

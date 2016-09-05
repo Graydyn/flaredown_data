@@ -1,12 +1,12 @@
-Bactrim,Azathioprine,Emu oil,Citalopram,Pentasa,Montelukast,co-tenidone,Ibuprofen,THC,Estriol,Gabapentin
-,,,,,,,,,,
-,,,0.0,0.0,,0.0,,,,
-,,,,,,,,,,
-,0.0,,,0.0,,0.0,,,,
-,0.0,,0.0,,,0.0,,,,
-,,,,,,,,,,
-,0.0,,0.0,0.0,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+Bactrim,Azathioprine,Emu oil,Citalopram,Pentasa,Montelukast,co-tenidone,Ibuprofen,THC,Estriol,Gabapentin,row
+,,,,,,,,,,,Bactrim
+,,,0.0,0.0,,0.0,,,,,Azathioprine
+,,,,,,,,,,,Emu oil
+,0.0,,,0.0,,0.0,,,,,Citalopram
+,0.0,,0.0,,,0.0,,,,,Pentasa
+,,,,,,,,,,,Montelukast
+,0.0,,0.0,0.0,,,,,,,co-tenidone
+,,,,,,,,,,,Ibuprofen
+,,,,,,,,,,,THC
+,,,,,,,,,,,Estriol
+,,,,,,,,,,,Gabapentin

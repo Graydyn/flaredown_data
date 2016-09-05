@@ -1,6 +1,6 @@
-Vitamin C,Nasal spray,Selenium,Contraceptive pill,Multi-vitamin
-,0.0,2.0,0.0,0.0
-0.0,,2.0,0.0,0.0
-2.0,2.0,,2.0,2.0
-0.0,0.0,2.0,,0.0
-0.0,0.0,2.0,0.0,
+Vitamin C,Nasal spray,Selenium,Contraceptive pill,Multi-vitamin,row
+,0.0,2.0,0.0,0.0,Vitamin C
+0.0,,2.0,0.0,0.0,Nasal spray
+2.0,2.0,,2.0,2.0,Selenium
+0.0,0.0,2.0,,0.0,Contraceptive pill
+0.0,0.0,2.0,0.0,,Multi-vitamin

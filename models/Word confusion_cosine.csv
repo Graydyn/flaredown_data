@@ -1,11 +1,11 @@
-sugar free diet,Codeine,Gabapentin,massage,Florinef,magnesium ionic,Adderall,Covocort,Lexapro,Dexedrine
-,,,,,,,,,
-,,,,,,,,,
-,,,2.0,,,,,0.0,
-,,2.0,,,,,,2.0,
-,,,,,,,0.0,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,0.0,,,,,
-,,0.0,2.0,,,,,,
-,,,,,,,,,
+sugar free diet,Codeine,Gabapentin,massage,Florinef,magnesium ionic,Adderall,Covocort,Lexapro,Dexedrine,row
+,,,,,,,,,,sugar free diet
+,,,,,,,,,,Codeine
+,,,2.0,,,,,0.0,,Gabapentin
+,,2.0,,,,,,2.0,,massage
+,,,,,,,0.0,,,Florinef
+,,,,,,,,,,magnesium ionic
+,,,,,,,,,,Adderall
+,,,,0.0,,,,,,Covocort
+,,0.0,2.0,,,,,,,Lexapro
+,,,,,,,,,,Dexedrine

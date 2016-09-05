@@ -1,5 +1,5 @@
-stressed,dairy,alcohol,gluten
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+stressed,dairy,alcohol,gluten,row
+,0.0,0.0,0.0,stressed
+0.0,,0.0,0.0,dairy
+0.0,0.0,,0.0,alcohol
+0.0,0.0,0.0,,gluten

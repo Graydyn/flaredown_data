@@ -1,6 +1,6 @@
-Meditation,sugar free diet,massage,Lexapro,Gabapentin
-,,2.0,0.0,0.0
-,,,,
-2.0,,,2.0,2.0
-0.0,,2.0,,0.0
-0.0,,2.0,0.0,
+Meditation,sugar free diet,massage,Lexapro,Gabapentin,row
+,,2.0,0.0,0.0,Meditation
+,,,,,sugar free diet
+2.0,,,2.0,2.0,massage
+0.0,,2.0,,0.0,Lexapro
+0.0,,2.0,0.0,,Gabapentin

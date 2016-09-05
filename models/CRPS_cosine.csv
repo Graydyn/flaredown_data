@@ -1,18 +1,18 @@
-shopped,neck pain,laundry,swept floor,tired,doctor appointment,stiff,television,walked,worried,painful knees,voted,painful back,low blood sugar,Showered,ate breakfast,knee pain
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,0.0,,,,,,0.0,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,0.0,,,,,,,,,,,0.0,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,0.0,,,,,0.0,,,,,,,
-,,,,,,,,,,,,,,,,
+shopped,neck pain,laundry,swept floor,tired,doctor appointment,stiff,television,walked,worried,painful knees,voted,painful back,low blood sugar,Showered,ate breakfast,knee pain,row
+,,,,,,,,,,,,,,,,,shopped
+,,,,,,,,,,,,,,,,,neck pain
+,,,,,,,,,,,,,,,,,laundry
+,,,,,,,,,,,,,,,,,swept floor
+,,,,,,,,,0.0,,,,,,0.0,,tired
+,,,,,,,,,,,,,,,,,doctor appointment
+,,,,,,,,,,,,,,,,,stiff
+,,,,,,,,,,,,,,,,,television
+,,,,,,,,,,,,,,,,,walked
+,,,,0.0,,,,,,,,,,,0.0,,worried
+,,,,,,,,,,,,,,,,,painful knees
+,,,,,,,,,,,,,,,,,voted
+,,,,,,,,,,,,,,,,,painful back
+,,,,,,,,,,,,,,,,,low blood sugar
+,,,,,,,,,,,,,,,,,Showered
+,,,,0.0,,,,,0.0,,,,,,,,ate breakfast
+,,,,,,,,,,,,,,,,,knee pain

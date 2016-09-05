@@ -32,11 +32,12 @@ def find_closest(x, treatment_correlations):
     for treatment1 in x:
         if treatment1 in treatment_correlations.index:
             treatment2_column = treatment_correlations.index[treatment1].idxmax(axis=1)
+            print treatment2_column
             if treatment_correlations[treatment2_column] > highestCorrelationValue:
                 highestCorrelationValue = treatment_correlations[treatment2_column]
                 highestCorrelationKey = treatment2_column
-    print highestCorrelationKey
-    print highestCorrelationValue
+    #print highestCorrelationKey
+    #print highestCorrelationValue
     return highestCorrelationValue,highestCorrelationKey
 
 #get a list of all the conditions this user has
@@ -54,8 +55,9 @@ for condition in conditions:
     condition_rows = test_df[test_df['condition'] == condition]
     correlations = pd.read_csv(modeldir + '/' + condition.replace('/', '').replace("\n","").replace("\r","") + "_" + distance_metric + ".csv")
     find_closest_func = functools.partial(find_closest,correlations) #this is so I can pass an argument into my transform function
+    print condition_rows['treatment']
     condition_rows['closest_correlation_value'] = condition_rows.groupby('user_id')['treatment'].transform(find_closest_func)
-    print condition_rows['closest_correlation_value']
+
     predicted_value = condition_rows[condition_rows['treatment'] == corr_key]['effectiveness'].values[0]
     if highestPredictedValue < predicted_value:
         highestPredictedValue = predicted_value

@@ -1,10 +1,10 @@
-Benadryl,Cetirizine,Ranitidine,physical therapy,Calcium citrate,Vitamin C,Albuterol Inhaler,Vitamin d,Turmeric
-,0.0,0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,,0.0,0.0,0.0,0.0,0.0
-,,,,,,,,
-0.0,0.0,0.0,,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,
+Benadryl,Cetirizine,Ranitidine,physical therapy,Calcium citrate,Vitamin C,Albuterol Inhaler,Vitamin d,Turmeric,row
+,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,Benadryl
+0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,Cetirizine
+0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,Ranitidine
+,,,,,,,,,physical therapy
+0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,Calcium citrate
+0.0,0.0,0.0,,0.0,,0.0,0.0,0.0,Vitamin C
+0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,Albuterol Inhaler
+0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,Vitamin d
+0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,Turmeric

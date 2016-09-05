@@ -1,9 +1,9 @@
-Ventolin,Solpadeine Max,Solpadeine,Ibuprofen,Ibuprophen,Acetaminophen,Solpadol,Tolterodine
-,0.0,0.0,,,,0.0,
-0.0,,0.0,,,,0.0,
-0.0,0.0,,,,,0.0,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-0.0,0.0,0.0,,,,,
-,,,,,,,
+Ventolin,Solpadeine Max,Solpadeine,Ibuprofen,Ibuprophen,Acetaminophen,Solpadol,Tolterodine,row
+,0.0,0.0,,,,0.0,,Ventolin
+0.0,,0.0,,,,0.0,,Solpadeine Max
+0.0,0.0,,,,,0.0,,Solpadeine
+,,,,,,,,Ibuprofen
+,,,,,,,,Ibuprophen
+,,,,,,,,Acetaminophen
+0.0,0.0,0.0,,,,,,Solpadol
+,,,,,,,,Tolterodine

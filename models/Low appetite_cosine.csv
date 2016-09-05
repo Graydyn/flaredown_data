@@ -1,10 +1,10 @@
-Celebrex,Buteyko  breathing exercises ,Low dose pain meds,Fluoxetine,physical therapy,Aleve,Stretching,Therapy,Compression Stockings
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,0.0,0.0,0.0,0.0
-,,,,0.0,,0.0,0.0,0.0
-,,,,0.0,0.0,,0.0,0.0
-,,,,0.0,0.0,0.0,,0.0
-,,,,0.0,0.0,0.0,0.0,
+Celebrex,Buteyko  breathing exercises ,Low dose pain meds,Fluoxetine,physical therapy,Aleve,Stretching,Therapy,Compression Stockings,row
+,,,,,,,,,Celebrex
+,,,,,,,,,Buteyko  breathing exercises 
+,,,,,,,,,Low dose pain meds
+,,,,,,,,,Fluoxetine
+,,,,,0.0,0.0,0.0,0.0,physical therapy
+,,,,0.0,,0.0,0.0,0.0,Aleve
+,,,,0.0,0.0,,0.0,0.0,Stretching
+,,,,0.0,0.0,0.0,,0.0,Therapy
+,,,,0.0,0.0,0.0,0.0,,Compression Stockings

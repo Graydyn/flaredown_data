@@ -1,7 +1,7 @@
-Vitamin D3,Zantac,IVIG,Ligament Restore,Psyllium husk,Cod liver oil
-,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,
+Vitamin D3,Zantac,IVIG,Ligament Restore,Psyllium husk,Cod liver oil,row
+,0.0,0.0,0.0,0.0,0.0,Vitamin D3
+0.0,,0.0,0.0,0.0,0.0,Zantac
+0.0,0.0,,0.0,0.0,0.0,IVIG
+0.0,0.0,0.0,,0.0,0.0,Ligament Restore
+0.0,0.0,0.0,0.0,,0.0,Psyllium husk
+0.0,0.0,0.0,0.0,0.0,,Cod liver oil
