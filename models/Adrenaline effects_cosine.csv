@@ -1,13 +1,13 @@
-Prednisone,Creatine,Clonazepam,Nortriptyline,Stretching,Ecural,Physiotherapy,linseed,Standing desk,Vitamin d,Lithium,Magnesium gel
-,,,,,,,,,,,
-,,0.0,,,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-,0.0,,,,0.0,0.0,0.0,0.0,2.0,0.0,0.0
-,,,,,,,,,,,
-,,,,,,,,,,,
-,0.0,0.0,,,,0.0,0.0,0.0,2.0,0.0,0.0
-,0.0,0.0,,,0.0,,0.0,0.0,2.0,0.0,0.0
-,0.0,0.0,,,0.0,0.0,,0.0,2.0,0.0,0.0
-,0.0,0.0,,,0.0,0.0,0.0,,2.0,0.0,0.0
-,2.0,2.0,,,2.0,2.0,2.0,2.0,,2.0,2.0
-,0.0,0.0,,,0.0,0.0,0.0,0.0,2.0,,0.0
-,0.0,0.0,,,0.0,0.0,0.0,0.0,2.0,0.0,
+Prednisone,Creatine,Clonazepam,Nortriptyline,Stretching,Ecural,Physiotherapy,linseed,Standing desk,Vitamin d,Lithium,Magnesium gel,row
+,,,,,,,,,,,,Prednisone
+,,0.0,,,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Creatine
+,0.0,,,,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Clonazepam
+,,,,,,,,,,,,Nortriptyline
+,,,,,,,,,,,,Stretching
+,0.0,0.0,,,,0.0,0.0,0.0,2.0,0.0,0.0,Ecural
+,0.0,0.0,,,0.0,,0.0,0.0,2.0,0.0,0.0,Physiotherapy
+,0.0,0.0,,,0.0,0.0,,0.0,2.0,0.0,0.0,linseed
+,0.0,0.0,,,0.0,0.0,0.0,,2.0,0.0,0.0,Standing desk
+,2.0,2.0,,,2.0,2.0,2.0,2.0,,2.0,2.0,Vitamin d
+,0.0,0.0,,,0.0,0.0,0.0,0.0,2.0,,0.0,Lithium
+,0.0,0.0,,,0.0,0.0,0.0,0.0,2.0,0.0,,Magnesium gel

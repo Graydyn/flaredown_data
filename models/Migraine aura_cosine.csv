@@ -1,5 +1,5 @@
-Acupuncture,tumeric extract,Goth clubbing,Synthroid
-,2.0,2.0,0.0
-2.0,,0.0,2.0
-2.0,0.0,,2.0
-0.0,2.0,2.0,
+Acupuncture,tumeric extract,Goth clubbing,Synthroid,row
+,2.0,2.0,0.0,Acupuncture
+2.0,,0.0,2.0,tumeric extract
+2.0,0.0,,2.0,Goth clubbing
+0.0,2.0,2.0,,Synthroid

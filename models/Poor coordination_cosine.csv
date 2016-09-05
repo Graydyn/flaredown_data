@@ -1,10 +1,10 @@
-flu vaccine injection,Cetirizine hydrochloride,Vitamins,exercise - dancing,Support worker assistance,Acetaminophen,Curcumin,catheter,5-htp
-,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0
-2.0,,0.0,0.0,0.0,2.0,2.0,0.0,0.0
-2.0,0.0,,0.0,0.0,2.0,2.0,0.0,0.0
-2.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0
-2.0,0.0,0.0,0.0,,2.0,2.0,0.0,0.0
-0.0,2.0,2.0,2.0,2.0,,0.0,2.0,2.0
-0.0,2.0,2.0,2.0,2.0,0.0,,2.0,2.0
-2.0,0.0,0.0,0.0,0.0,2.0,2.0,,0.0
-2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,
+flu vaccine injection,Cetirizine hydrochloride,Vitamins,exercise - dancing,Support worker assistance,Acetaminophen,Curcumin,catheter,5-htp,row
+,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,flu vaccine injection
+2.0,,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Cetirizine hydrochloride
+2.0,0.0,,0.0,0.0,2.0,2.0,0.0,0.0,Vitamins
+2.0,0.0,0.0,,0.0,2.0,2.0,0.0,0.0,exercise - dancing
+2.0,0.0,0.0,0.0,,2.0,2.0,0.0,0.0,Support worker assistance
+0.0,2.0,2.0,2.0,2.0,,0.0,2.0,2.0,Acetaminophen
+0.0,2.0,2.0,2.0,2.0,0.0,,2.0,2.0,Curcumin
+2.0,0.0,0.0,0.0,0.0,2.0,2.0,,0.0,catheter
+2.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,,5-htp

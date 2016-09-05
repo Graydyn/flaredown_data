@@ -1,9 +1,9 @@
-Maxalt,Yoga,Prednisone,Seasonique,Cane to get down stairs,Vicodin,Ibuprofen,massage
-,,,,,,,
-,,2.0,0.0,0.0,0.0,0.0,0.0
-,2.0,,2.0,2.0,2.0,2.0,2.0
-,0.0,2.0,,0.0,0.0,0.0,0.0
-,0.0,2.0,0.0,,0.0,0.0,0.0
-,0.0,2.0,0.0,0.0,,0.0,0.0
-,0.0,2.0,0.0,0.0,0.0,,0.0
-,0.0,2.0,0.0,0.0,0.0,0.0,
+Maxalt,Yoga,Prednisone,Seasonique,Cane to get down stairs,Vicodin,Ibuprofen,massage,row
+,,,,,,,,Maxalt
+,,2.0,0.0,0.0,0.0,0.0,0.0,Yoga
+,2.0,,2.0,2.0,2.0,2.0,2.0,Prednisone
+,0.0,2.0,,0.0,0.0,0.0,0.0,Seasonique
+,0.0,2.0,0.0,,0.0,0.0,0.0,Cane to get down stairs
+,0.0,2.0,0.0,0.0,,0.0,0.0,Vicodin
+,0.0,2.0,0.0,0.0,0.0,,0.0,Ibuprofen
+,0.0,2.0,0.0,0.0,0.0,0.0,,massage

@@ -1,5 +1,5 @@
-Two days spilling on self.,No sleep at all,Painful all over,tired
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+Two days spilling on self.,No sleep at all,Painful all over,tired,row
+,0.0,0.0,0.0,Two days spilling on self.
+0.0,,0.0,0.0,No sleep at all
+0.0,0.0,,0.0,Painful all over
+0.0,0.0,0.0,,tired

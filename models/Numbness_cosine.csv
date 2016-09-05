@@ -1,7 +1,7 @@
-Coffee,Ibuprofen,Multivitamin,Iron,Vitamin d,Gabapentin
-,0.0,,,,
-0.0,,,,,
-,,,0.0,0.0,
-,,0.0,,0.0,
-,,0.0,0.0,,
-,,,,,
+Coffee,Ibuprofen,Multivitamin,Iron,Vitamin d,Gabapentin,row
+,0.0,,,,,Coffee
+0.0,,,,,,Ibuprofen
+,,,0.0,0.0,,Multivitamin
+,,0.0,,0.0,,Iron
+,,0.0,0.0,,,Vitamin d
+,,,,,,Gabapentin

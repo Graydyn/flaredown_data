@@ -1,5 +1,5 @@
-Therapy,Trigger Points,Sisu B Calm,Dancing
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+Therapy,Trigger Points,Sisu B Calm,Dancing,row
+,0.0,0.0,0.0,Therapy
+0.0,,0.0,0.0,Trigger Points
+0.0,0.0,,0.0,Sisu B Calm
+0.0,0.0,0.0,,Dancing

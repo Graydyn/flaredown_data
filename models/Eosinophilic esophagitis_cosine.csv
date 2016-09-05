@@ -1,9 +1,9 @@
-out of spoons,talked with family,Went to the park,Regurgitated,tiny breakfast,dressed up,no dinner,saw family
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+out of spoons,talked with family,Went to the park,Regurgitated,tiny breakfast,dressed up,no dinner,saw family,row
+,0.0,0.0,0.0,0.0,0.0,0.0,0.0,out of spoons
+0.0,,0.0,0.0,0.0,0.0,0.0,0.0,talked with family
+0.0,0.0,,0.0,0.0,0.0,0.0,0.0,Went to the park
+0.0,0.0,0.0,,0.0,0.0,0.0,0.0,Regurgitated
+0.0,0.0,0.0,0.0,,0.0,0.0,0.0,tiny breakfast
+0.0,0.0,0.0,0.0,0.0,,0.0,0.0,dressed up
+0.0,0.0,0.0,0.0,0.0,0.0,,0.0,no dinner
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,,saw family

@@ -1,10 +1,10 @@
-Benadryl,Strattera,Probiotic Gummy,Hit 10k Steps,ZMA,N-acetyl cysteine,Dexedrine,Clarithromycin,Vitamin Gummies
-,2.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0
-2.0,,2.0,2.0,2.0,0.0,0.0,0.0,0.0
-0.0,2.0,,0.0,0.0,2.0,2.0,2.0,2.0
-0.0,2.0,0.0,,0.0,2.0,2.0,2.0,2.0
-0.0,2.0,0.0,0.0,,2.0,2.0,2.0,2.0
-2.0,0.0,2.0,2.0,2.0,,0.0,0.0,0.0
-2.0,0.0,2.0,2.0,2.0,0.0,,0.0,0.0
-2.0,0.0,2.0,2.0,2.0,0.0,0.0,,0.0
-2.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,
+Benadryl,Strattera,Probiotic Gummy,Hit 10k Steps,ZMA,N-acetyl cysteine,Dexedrine,Clarithromycin,Vitamin Gummies,row
+,2.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,Benadryl
+2.0,,2.0,2.0,2.0,0.0,0.0,0.0,0.0,Strattera
+0.0,2.0,,0.0,0.0,2.0,2.0,2.0,2.0,Probiotic Gummy
+0.0,2.0,0.0,,0.0,2.0,2.0,2.0,2.0,Hit 10k Steps
+0.0,2.0,0.0,0.0,,2.0,2.0,2.0,2.0,ZMA
+2.0,0.0,2.0,2.0,2.0,,0.0,0.0,0.0,N-acetyl cysteine
+2.0,0.0,2.0,2.0,2.0,0.0,,0.0,0.0,Dexedrine
+2.0,0.0,2.0,2.0,2.0,0.0,0.0,,0.0,Clarithromycin
+2.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,,Vitamin Gummies

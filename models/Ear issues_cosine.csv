@@ -1,4 +1,4 @@
-Fexofenadine,Paracetamol,Anakinra
-,0.0,0.0
-0.0,,0.0
-0.0,0.0,
+Fexofenadine,Paracetamol,Anakinra,row
+,0.0,0.0,Fexofenadine
+0.0,,0.0,Paracetamol
+0.0,0.0,,Anakinra

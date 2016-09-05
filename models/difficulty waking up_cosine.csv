@@ -1,7 +1,7 @@
-Coffee,Ginger,anti-nausea pills,Naproxen,Ibuprofen,Relpax
-,,,,1.11022302463e-16,
-,,,,,
-,,,,,
-,,,,,0.0
-1.11022302463e-16,,,,,
-,,,0.0,,
+Coffee,Ginger,anti-nausea pills,Naproxen,Ibuprofen,Relpax,row
+,,,,2.22044604925e-16,,Coffee
+,,,,,,Ginger
+,,,,,,anti-nausea pills
+,,,,,0.0,Naproxen
+2.22044604925e-16,,,,,,Ibuprofen
+,,,0.0,,,Relpax

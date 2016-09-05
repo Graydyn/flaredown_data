@@ -1,8 +1,8 @@
-Fexofenadine,Prednisolone,physical therapy,Anakinra,7-keto-dhea,Vitamin d,Paracetamol
-,,,0.0,,,0.0
-,,,,,,
-,,,,,,
-0.0,,,,,,0.0
-,,,,,,
-,,,,,,
-0.0,,,0.0,,,
+Fexofenadine,Prednisolone,physical therapy,Anakinra,7-keto-dhea,Vitamin d,Paracetamol,row
+,,,0.0,,,0.0,Fexofenadine
+,,,,,,,Prednisolone
+,,,,,,,physical therapy
+0.0,,,,,,0.0,Anakinra
+,,,,,,,7-keto-dhea
+,,,,,,,Vitamin d
+0.0,,,0.0,,,,Paracetamol

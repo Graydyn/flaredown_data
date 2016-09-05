@@ -1,10 +1,10 @@
-Omega-3 Capsules,Nortriptyline,MitoQ ,Oestrogel,Gabapentine,Pantoprazole,Venlafaxine,Zolpidem,Prontolax Supp
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Omega-3 Capsules,Nortriptyline,MitoQ ,Oestrogel,Gabapentine,Pantoprazole,Venlafaxine,Zolpidem,Prontolax Supp,row
+,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Omega-3 Capsules
+0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nortriptyline
+0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,MitoQ 
+0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,Oestrogel
+0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,Gabapentine
+0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,Pantoprazole
+0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,Venlafaxine
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,Zolpidem
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Prontolax Supp

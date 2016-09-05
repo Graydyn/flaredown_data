@@ -1,7 +1,7 @@
-Azathioprine,Physical activity,Citalopram,Pentasa,co-tenidone,Physio
-,,0.0,0.0,0.0,
-,,,,,
-0.0,,,0.0,0.0,
-0.0,,0.0,,0.0,
-0.0,,0.0,0.0,,
-,,,,,
+Azathioprine,Physical activity,Citalopram,Pentasa,co-tenidone,Physio,row
+,,0.0,0.0,0.0,,Azathioprine
+,,,,,,Physical activity
+0.0,,,0.0,0.0,,Citalopram
+0.0,,0.0,,0.0,,Pentasa
+0.0,,0.0,0.0,,,co-tenidone
+,,,,,,Physio

@@ -1,12 +1,12 @@
-Coffee,Aloe Detox Water,Vitamins,Medical Marijuana,Daily walk,Sleep,Weather- rain,Meditation,Extra Medications,massage,Turmeric
-,0.0,0.0,2.0,,,0.0,0.0,0.0,0.0,
-0.0,,0.0,2.0,,,0.0,0.0,0.0,0.0,
-0.0,0.0,,2.0,,,0.0,0.0,0.0,0.0,
-2.0,2.0,2.0,,,,2.0,2.0,2.0,2.0,
-,,,,,,,,,,
-,,,,,,,,,,
-0.0,0.0,0.0,2.0,,,,0.0,0.0,0.0,
-0.0,0.0,0.0,2.0,,,0.0,,0.0,0.0,
-0.0,0.0,0.0,2.0,,,0.0,0.0,,0.0,
-0.0,0.0,0.0,2.0,,,0.0,0.0,0.0,,
-,,,,,,,,,,
+Coffee,Aloe Detox Water,Vitamins,Medical Marijuana,Daily walk,Sleep,Weather- rain,Meditation,Extra Medications,massage,Turmeric,row
+,0.0,0.0,2.0,,,0.0,0.0,0.0,0.0,,Coffee
+0.0,,0.0,2.0,,,0.0,0.0,0.0,0.0,,Aloe Detox Water
+0.0,0.0,,2.0,,,0.0,0.0,0.0,0.0,,Vitamins
+2.0,2.0,2.0,,,,2.0,2.0,2.0,2.0,,Medical Marijuana
+,,,,,,,,,,,Daily walk
+,,,,,,,,,,,Sleep
+0.0,0.0,0.0,2.0,,,,0.0,0.0,0.0,,Weather- rain
+0.0,0.0,0.0,2.0,,,0.0,,0.0,0.0,,Meditation
+0.0,0.0,0.0,2.0,,,0.0,0.0,,0.0,,Extra Medications
+0.0,0.0,0.0,2.0,,,0.0,0.0,0.0,,,massage
+,,,,,,,,,,,Turmeric

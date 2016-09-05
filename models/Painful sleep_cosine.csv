@@ -1,10 +1,10 @@
-Buteyko  breathing exercises ,Caffeine,Ubiquinol,Heating Pad,Vitamin b6,Florinef,Glutamine,Nia Class,Spasfon
-,,,,,,,,
-,,0.0,0.0,0.0,,0.0,,0.0
-,0.0,,0.0,0.0,,0.0,,0.0
-,0.0,0.0,,0.0,,0.0,,0.0
-,0.0,0.0,0.0,,,0.0,,0.0
-,,,,,,,0.0,
-,0.0,0.0,0.0,0.0,,,,0.0
-,,,,,0.0,,,
-,0.0,0.0,0.0,0.0,,0.0,,
+Buteyko  breathing exercises ,Caffeine,Ubiquinol,Heating Pad,Vitamin b6,Florinef,Glutamine,Nia Class,Spasfon,row
+,,,,,,,,,Buteyko  breathing exercises 
+,,0.0,0.0,0.0,,0.0,,0.0,Caffeine
+,0.0,,0.0,0.0,,0.0,,0.0,Ubiquinol
+,0.0,0.0,,0.0,,0.0,,0.0,Heating Pad
+,0.0,0.0,0.0,,,0.0,,0.0,Vitamin b6
+,,,,,,,0.0,,Florinef
+,0.0,0.0,0.0,0.0,,,,0.0,Glutamine
+,,,,,0.0,,,,Nia Class
+,0.0,0.0,0.0,0.0,,0.0,,,Spasfon

@@ -1,6 +1,6 @@
-Cranberry extract,Diazepam,Meditation,Stretching,Low dose pain meds
-,0.0,2.0,0.0,
-0.0,,2.0,0.0,
-2.0,2.0,,2.0,
-0.0,0.0,2.0,,
-,,,,
+Cranberry extract,Diazepam,Meditation,Stretching,Low dose pain meds,row
+,0.0,2.0,0.0,,Cranberry extract
+0.0,,2.0,0.0,,Diazepam
+2.0,2.0,,2.0,,Meditation
+0.0,0.0,2.0,,,Stretching
+,,,,,Low dose pain meds

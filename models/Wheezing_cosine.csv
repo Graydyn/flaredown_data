@@ -1,19 +1,19 @@
-Albuterol,Benadryl,Flexeril,Cetirizine,Mt. Si ACDC 2x Coco Caps,Cefaly Unit,Weighted Blanket,Zyrtec,Ranitidine,Vitamin,Calcium citrate,Vitamin C,Albuterol Inhaler,Vitamin d,Tetralabs Gold Caps,Turmeric,Esopram,Tetralabs Gold Caps CBN
-,,,,,,,,,,,,,,,,,
-,,,0.0,,,,,0.0,,0.0,0.0,0.0,0.0,,0.0,,
-,,,,2.0,0.0,0.0,,,0.0,,,,,0.0,,2.0,2.0
-,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,,0.0,,
-,,2.0,,,2.0,,,,,,,,,2.0,,,0.0
-,,0.0,,2.0,,,,,,,,,,0.0,,,2.0
-,,0.0,,,,,,,0.0,,,,,,,2.0,
-,,,,,,,,,,,,,,,,,
-,0.0,,0.0,,,,,,,0.0,0.0,0.0,0.0,,0.0,,
-,,0.0,,,,0.0,,,,,,,,,,2.0,
-,0.0,,0.0,,,,,0.0,,,0.0,0.0,0.0,,0.0,,
-,0.0,,0.0,,,,,0.0,,0.0,,0.0,0.0,,0.0,,
-,0.0,,0.0,,,,,0.0,,0.0,0.0,,0.0,,0.0,,
-,0.0,,0.0,,,,,0.0,,0.0,0.0,0.0,,,0.0,,
-,,0.0,,2.0,0.0,,,,,,,,,,,,2.0
-,0.0,,0.0,,,,,0.0,,0.0,0.0,0.0,0.0,,,,
-,,2.0,,,,2.0,,,2.0,,,,,,,,
-,,2.0,,0.0,2.0,,,,,,,,,2.0,,,
+Albuterol,Benadryl,Flexeril,Cetirizine,Mt. Si ACDC 2x Coco Caps,Cefaly Unit,Weighted Blanket,Zyrtec,Vitamin C,Vitamin,Calcium citrate,Ranitidine,Albuterol Inhaler,Vitamin d,Tetralabs Gold Caps,Turmeric,Esopram,Tetralabs Gold Caps CBN,row
+,,,,,,,,,,,,,,,,,,Albuterol
+,,,0.0,,,,,0.0,,0.0,0.0,0.0,0.0,,0.0,,,Benadryl
+,,,,2.0,0.0,0.0,,,0.0,,,,,0.0,,2.0,2.0,Flexeril
+,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,,0.0,,,Cetirizine
+,,2.0,,,2.0,,,,,,,,,2.0,,,0.0,Mt. Si ACDC 2x Coco Caps
+,,0.0,,2.0,,,,,,,,,,0.0,,,2.0,Cefaly Unit
+,,0.0,,,,,,,0.0,,,,,,,2.0,,Weighted Blanket
+,,,,,,,,,,,,,,,,,,Zyrtec
+,0.0,,0.0,,,,,,,0.0,0.0,0.0,0.0,,0.0,,,Vitamin C
+,,0.0,,,,0.0,,,,,,,,,,2.0,,Vitamin
+,0.0,,0.0,,,,,0.0,,,0.0,0.0,0.0,,0.0,,,Calcium citrate
+,0.0,,0.0,,,,,0.0,,0.0,,0.0,0.0,,0.0,,,Ranitidine
+,0.0,,0.0,,,,,0.0,,0.0,0.0,,0.0,,0.0,,,Albuterol Inhaler
+,0.0,,0.0,,,,,0.0,,0.0,0.0,0.0,,,0.0,,,Vitamin d
+,,0.0,,2.0,0.0,,,,,,,,,,,,2.0,Tetralabs Gold Caps
+,0.0,,0.0,,,,,0.0,,0.0,0.0,0.0,0.0,,,,,Turmeric
+,,2.0,,,,2.0,,,2.0,,,,,,,,,Esopram
+,,2.0,,0.0,2.0,,,,,,,,,2.0,,,,Tetralabs Gold Caps CBN

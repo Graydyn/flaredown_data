@@ -1,8 +1,8 @@
-Azathioprine,Yoga,Citalopram,Pentasa,Daily walk,co-tenidone,Umeboshi
-,,0.0,0.0,,0.0,
-,,,,0.0,,0.0
-0.0,,,0.0,,0.0,
-0.0,,0.0,,,0.0,
-,0.0,,,,,0.0
-0.0,,0.0,0.0,,,
-,0.0,,,0.0,,
+Azathioprine,Yoga,Citalopram,Pentasa,Daily walk,co-tenidone,Umeboshi,row
+,,0.0,0.0,,0.0,,Azathioprine
+,,,,0.0,,0.0,Yoga
+0.0,,,0.0,,0.0,,Citalopram
+0.0,,0.0,,,0.0,,Pentasa
+,0.0,,,,,0.0,Daily walk
+0.0,,0.0,0.0,,,,co-tenidone
+,0.0,,,0.0,,,Umeboshi

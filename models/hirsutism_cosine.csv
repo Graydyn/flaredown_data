@@ -1,5 +1,5 @@
-adapten-all,Iodine,Caffeine,Vitamin d
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+adapten-all,Iodine,Caffeine,Vitamin d,row
+,0.0,0.0,0.0,adapten-all
+0.0,,0.0,0.0,Iodine
+0.0,0.0,,0.0,Caffeine
+0.0,0.0,0.0,,Vitamin d

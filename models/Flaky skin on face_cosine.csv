@@ -1,8 +1,8 @@
-Sore muscles,tired,Headache AM,period,GI discomfort,dairy,felt sick
-,0.0,0.0,0.0,2.0,0.0,0.0
-0.0,,0.0,0.0,2.0,0.0,0.0
-0.0,0.0,,0.0,2.0,0.0,0.0
-0.0,0.0,0.0,,2.0,0.0,0.0
-2.0,2.0,2.0,2.0,,2.0,2.0
-0.0,0.0,0.0,0.0,2.0,,0.0
-0.0,0.0,0.0,0.0,2.0,0.0,
+Sore muscles,tired,Headache AM,period,GI discomfort,dairy,felt sick,row
+,0.0,0.0,0.0,2.0,0.0,0.0,Sore muscles
+0.0,,0.0,0.0,2.0,0.0,0.0,tired
+0.0,0.0,,0.0,2.0,0.0,0.0,Headache AM
+0.0,0.0,0.0,,2.0,0.0,0.0,period
+2.0,2.0,2.0,2.0,,2.0,2.0,GI discomfort
+0.0,0.0,0.0,0.0,2.0,,0.0,dairy
+0.0,0.0,0.0,0.0,2.0,0.0,,felt sick

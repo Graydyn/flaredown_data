@@ -1,9 +1,9 @@
-Social interactions,Sertraline,SAD Light Box,Sleep,Hobbies,distraction,Exercise,Mirtazapine
-,0.0,0.0,0.0,0.0,0.0,0.0,2.0
-0.0,,0.0,0.0,0.0,0.0,0.0,2.0
-0.0,0.0,,0.0,0.0,0.0,0.0,2.0
-0.0,0.0,0.0,,0.0,0.0,0.0,2.0
-0.0,0.0,0.0,0.0,,0.0,0.0,2.0
-0.0,0.0,0.0,0.0,0.0,,0.0,2.0
-0.0,0.0,0.0,0.0,0.0,0.0,,2.0
-2.0,2.0,2.0,2.0,2.0,2.0,2.0,
+Social interactions,Sertraline,SAD Light Box,Sleep,Hobbies,distraction,Exercise,Mirtazapine,row
+,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Social interactions
+0.0,,0.0,0.0,0.0,0.0,0.0,2.0,Sertraline
+0.0,0.0,,0.0,0.0,0.0,0.0,2.0,SAD Light Box
+0.0,0.0,0.0,,0.0,0.0,0.0,2.0,Sleep
+0.0,0.0,0.0,0.0,,0.0,0.0,2.0,Hobbies
+0.0,0.0,0.0,0.0,0.0,,0.0,2.0,distraction
+0.0,0.0,0.0,0.0,0.0,0.0,,2.0,Exercise
+2.0,2.0,2.0,2.0,2.0,2.0,2.0,,Mirtazapine

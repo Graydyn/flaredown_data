@@ -1,18 +1,18 @@
-Ibuprofen,0.9% Sodium Chloride Solution 1L,Low dose pain meds,Greens First Powder,Pro Omega 2000 Fish Oil,B12 drops,Folate,Vitamin C,EnzymixPro,Zinc,Klaire Ther-biotic,Prednesone,Citrucel,pur-absorb iron,Magnesium glycinate,catheter,Exercise
-,0.0,,,,,,,,,,,,,,,
-0.0,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,0.0
-,,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,0.0
-,,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,,,0.0,,0.0
-,,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,,,0.0,,0.0
-,,,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,,,0.0,,0.0
-,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,,0.0
-,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,,,,0.0,,0.0
-,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,0.0,,0.0
-,,,,,,,,,,,,0.0,0.0,,,
-,,,,,,,,,,,0.0,,0.0,,,
-,,,,,,,,,,,0.0,0.0,,,,
-,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,0.0
-,,,,,,,,,,,,,,,,
-,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,
+Ibuprofen,0.9% Sodium Chloride Solution 1L,Low dose pain meds,Greens First Powder,Pro Omega 2000 Fish Oil,B12 drops,Folate,Vitamin C,EnzymixPro,Zinc,Klaire Ther-biotic,Prednesone,Citrucel,pur-absorb iron,Magnesium glycinate,catheter,Exercise,row
+,0.0,,,,,,,,,,,,,,,,Ibuprofen
+0.0,,,,,,,,,,,,,,,,,0.9% Sodium Chloride Solution 1L
+,,,,,,,,,,,,,,,,,Low dose pain meds
+,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,0.0,Greens First Powder
+,,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,0.0,Pro Omega 2000 Fish Oil
+,,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,,,0.0,,0.0,B12 drops
+,,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,,,0.0,,0.0,Folate
+,,,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,,,0.0,,0.0,Vitamin C
+,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,,0.0,EnzymixPro
+,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,,,,0.0,,0.0,Zinc
+,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,0.0,,0.0,Klaire Ther-biotic
+,,,,,,,,,,,,0.0,0.0,,,,Prednesone
+,,,,,,,,,,,0.0,,0.0,,,,Citrucel
+,,,,,,,,,,,0.0,0.0,,,,,pur-absorb iron
+,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,0.0,Magnesium glycinate
+,,,,,,,,,,,,,,,,,catheter
+,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,Exercise

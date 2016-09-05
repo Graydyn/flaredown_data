@@ -1,13 +1,13 @@
-Flexeril,Zolpidem ER,Cod liver oil,Excedrin,IVIG,Ligament Restore,Vitamin,Vitamin D3,Ibuprofen,Zantac,Psyllium husk,cocodamol
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,0.0,,,,0.0,,0.0,0.0,
-,,0.0,,,,,0.0,,0.0,0.0,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,0.0,0.0,,,,,,0.0,0.0,
-,,,,,,,,,,,2.0
-,,0.0,0.0,,,,0.0,,,0.0,
-,,0.0,0.0,,,,0.0,,0.0,,
-,,,,,,,,2.0,,,
+Flexeril,Zolpidem ER,Cod liver oil,Excedrin,IVIG,Ligament Restore,Vitamin,Vitamin D3,Ibuprofen,Zantac,Psyllium husk,cocodamol,row
+,,,,,,,,,,,,Flexeril
+,,,,,,,,,,,,Zolpidem ER
+,,,0.0,,,,0.0,,0.0,0.0,,Cod liver oil
+,,0.0,,,,,0.0,,0.0,0.0,,Excedrin
+,,,,,,,,,,,,IVIG
+,,,,,,,,,,,,Ligament Restore
+,,,,,,,,,,,,Vitamin
+,,0.0,0.0,,,,,,0.0,0.0,,Vitamin D3
+,,,,,,,,,,,2.0,Ibuprofen
+,,0.0,0.0,,,,0.0,,,0.0,,Zantac
+,,0.0,0.0,,,,0.0,,0.0,,,Psyllium husk
+,,,,,,,,2.0,,,,cocodamol

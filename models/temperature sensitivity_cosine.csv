@@ -1,12 +1,12 @@
-Vitamin D3,Iodine,Zolpidem ER,mag ox,Magnesium citrate,Calcium,Vitamin b12,Trileptal,electric wheelchair,Lyrica,Wellbutrin
-,0.0,,,0.0,0.0,0.0,,0.0,,
-0.0,,,,0.0,0.0,0.0,,0.0,,
-,,,,,,,,,,
-,,,,,,,0.0,,0.0,0.0
-0.0,0.0,,,,0.0,0.0,,0.0,,
-0.0,0.0,,,0.0,,0.0,,0.0,,
-0.0,0.0,,,0.0,0.0,,,0.0,,
-,,,0.0,,,,,,0.0,0.0
-0.0,0.0,,,0.0,0.0,0.0,,,,
-,,,0.0,,,,0.0,,,0.0
-,,,0.0,,,,0.0,,0.0,
+Vitamin D3,Iodine,Zolpidem ER,mag ox,Magnesium citrate,Calcium,Vitamin b12,Trileptal,electric wheelchair,Lyrica,Wellbutrin,row
+,0.0,,,0.0,0.0,0.0,,0.0,,,Vitamin D3
+0.0,,,,0.0,0.0,0.0,,0.0,,,Iodine
+,,,,,,,,,,,Zolpidem ER
+,,,,,,,0.0,,0.0,0.0,mag ox
+0.0,0.0,,,,0.0,0.0,,0.0,,,Magnesium citrate
+0.0,0.0,,,0.0,,0.0,,0.0,,,Calcium
+0.0,0.0,,,0.0,0.0,,,0.0,,,Vitamin b12
+,,,0.0,,,,,,0.0,0.0,Trileptal
+0.0,0.0,,,0.0,0.0,0.0,,,,,electric wheelchair
+,,,0.0,,,,0.0,,,0.0,Lyrica
+,,,0.0,,,,0.0,,0.0,,Wellbutrin

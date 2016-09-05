@@ -1,15 +1,15 @@
-Went to work,anxiety,alcohol,tired,Superlong nap,spent day with others,Ate before bed,going outside every day,not stressed,dizzy,Stayed on diet,not working,exercise,stayed up late
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,0.0,,0.0,2.0,0.0,,0.0,,
-,,,,,,,,,,,,,
-,,,0.0,,,,0.0,2.0,0.0,,0.0,,
-,,,,,,,,,,,,,
-,,,0.0,,0.0,,,2.0,0.0,,0.0,,
-,,,2.0,,2.0,,2.0,,2.0,,2.0,,
-,,,0.0,,0.0,,0.0,2.0,,,0.0,,
-,,,,,,,,,,,,,
-,,,0.0,,0.0,,0.0,2.0,0.0,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+Went to work,anxiety,alcohol,tired,Superlong nap,spent day with others,Ate before bed,going outside every day,not stressed,dizzy,Stayed on diet,not working,exercise,stayed up late,row
+,,,,,,,,,,,,,,Went to work
+,,,,,,,,,,,,,,anxiety
+,,,,,,,,,,,,,,alcohol
+,,,,,0.0,,0.0,2.0,0.0,,0.0,,,tired
+,,,,,,,,,,,,,,Superlong nap
+,,,0.0,,,,0.0,2.0,0.0,,0.0,,,spent day with others
+,,,,,,,,,,,,,,Ate before bed
+,,,0.0,,0.0,,,2.0,0.0,,0.0,,,going outside every day
+,,,2.0,,2.0,,2.0,,2.0,,2.0,,,not stressed
+,,,0.0,,0.0,,0.0,2.0,,,0.0,,,dizzy
+,,,,,,,,,,,,,,Stayed on diet
+,,,0.0,,0.0,,0.0,2.0,0.0,,,,,not working
+,,,,,,,,,,,,,,exercise
+,,,,,,,,,,,,,,stayed up late

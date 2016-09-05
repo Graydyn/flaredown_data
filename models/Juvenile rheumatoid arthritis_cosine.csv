@@ -1,17 +1,17 @@
-raining,lonely,Relied on,counselling,doctor appointment,bad dreams,stressed,good sleep,period,walked,worried,fibromyalgia diagnosis,restless sleep,Dr. DeJong,saw a movie,Dr. Wu
-,,,,,,,,,,,,,,,
-,,0.0,,,,,,,,,,,,,
-,0.0,,,,,,,,,,,,,,
-,,,,,0.0,0.0,,,,0.0,0.0,,0.0,,0.0
-,,,,,,,,,,,,,,,
-,,,0.0,,,0.0,,,,0.0,0.0,,0.0,,0.0
-,,,0.0,,0.0,,,,,0.0,0.0,,0.0,,0.0
-,,,,,,,,0.0,0.0,,,,,,
-,,,,,,,0.0,,0.0,,,,,,
-,,,,,,,0.0,0.0,,,,,,,
-,,,0.0,,0.0,0.0,,,,,0.0,,0.0,,0.0
-,,,0.0,,0.0,0.0,,,,0.0,,,0.0,,0.0
-,,,,,,,,,,,,,,,
-,,,0.0,,0.0,0.0,,,,0.0,0.0,,,,0.0
-,,,,,,,,,,,,,,,
-,,,0.0,,0.0,0.0,,,,0.0,0.0,,0.0,,
+raining,lonely,Relied on,counselling,doctor appointment,bad dreams,stressed,good sleep,period,walked,worried,fibromyalgia diagnosis,restless sleep,Dr. DeJong,saw a movie,Dr. Wu,row
+,,,,,,,,,,,,,,,,raining
+,,0.0,,,,,,,,,,,,,,lonely
+,0.0,,,,,,,,,,,,,,,Relied on
+,,,,,0.0,0.0,,,,0.0,0.0,,0.0,,0.0,counselling
+,,,,,,,,,,,,,,,,doctor appointment
+,,,0.0,,,0.0,,,,0.0,0.0,,0.0,,0.0,bad dreams
+,,,0.0,,0.0,,,,,0.0,0.0,,0.0,,0.0,stressed
+,,,,,,,,0.0,0.0,,,,,,,good sleep
+,,,,,,,0.0,,0.0,,,,,,,period
+,,,,,,,0.0,0.0,,,,,,,,walked
+,,,0.0,,0.0,0.0,,,,,0.0,,0.0,,0.0,worried
+,,,0.0,,0.0,0.0,,,,0.0,,,0.0,,0.0,fibromyalgia diagnosis
+,,,,,,,,,,,,,,,,restless sleep
+,,,0.0,,0.0,0.0,,,,0.0,0.0,,,,0.0,Dr. DeJong
+,,,,,,,,,,,,,,,,saw a movie
+,,,0.0,,0.0,0.0,,,,0.0,0.0,,0.0,,,Dr. Wu

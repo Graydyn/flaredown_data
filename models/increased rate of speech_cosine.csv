@@ -1,8 +1,8 @@
-Dancing,Trigger Points,Therapy,Iron,Vitamin d,Sisu B Calm,Cleaning 
-,0.0,0.0,,,0.0,
-0.0,,0.0,,,0.0,
-0.0,0.0,,,,0.0,
-,,,,0.0,,0.0
-,,,0.0,,,0.0
-0.0,0.0,0.0,,,,
-,,,0.0,0.0,,
+Dancing,Trigger Points,Therapy,Iron,Vitamin d,Sisu B Calm,Cleaning ,row
+,0.0,0.0,,,0.0,,Dancing
+0.0,,0.0,,,0.0,,Trigger Points
+0.0,0.0,,,,0.0,,Therapy
+,,,,0.0,,0.0,Iron
+,,,0.0,,,0.0,Vitamin d
+0.0,0.0,0.0,,,,,Sisu B Calm
+,,,0.0,0.0,,,Cleaning 

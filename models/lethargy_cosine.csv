@@ -1,11 +1,11 @@
-Social interactions,Sertraline,SAD Light Box,Allopurinol,Sleep,Vicodin,Hobbies,distraction,Exercise,Mirtazapine
-,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0
-0.0,,0.0,,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,,,0.0,,0.0,0.0,0.0,0.0
-,,,,,,,,,
-0.0,0.0,0.0,,,,0.0,0.0,0.0,0.0
-,,,,,,,,,
-0.0,0.0,0.0,,0.0,,,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,,0.0,,0.0,0.0
-0.0,0.0,0.0,,0.0,,0.0,0.0,,0.0
-0.0,0.0,0.0,,0.0,,0.0,0.0,0.0,
+Social interactions,Sertraline,SAD Light Box,Allopurinol,Sleep,Vicodin,Hobbies,distraction,Exercise,Mirtazapine,row
+,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,Social interactions
+0.0,,0.0,,0.0,,0.0,0.0,0.0,0.0,Sertraline
+0.0,0.0,,,0.0,,0.0,0.0,0.0,0.0,SAD Light Box
+,,,,,,,,,,Allopurinol
+0.0,0.0,0.0,,,,0.0,0.0,0.0,0.0,Sleep
+,,,,,,,,,,Vicodin
+0.0,0.0,0.0,,0.0,,,0.0,0.0,0.0,Hobbies
+0.0,0.0,0.0,,0.0,,0.0,,0.0,0.0,distraction
+0.0,0.0,0.0,,0.0,,0.0,0.0,,0.0,Exercise
+0.0,0.0,0.0,,0.0,,0.0,0.0,0.0,,Mirtazapine

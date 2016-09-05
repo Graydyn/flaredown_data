@@ -1,8 +1,8 @@
-Clonazepam,Aleve,Stretching,physical therapy,Pepto-bismol,Therapy,Compression Stockings
-,,,,0.0,,
-,,0.0,0.0,,0.0,0.0
-,0.0,,0.0,,0.0,0.0
-,0.0,0.0,,,0.0,0.0
-0.0,,,,,,
-,0.0,0.0,0.0,,,0.0
-,0.0,0.0,0.0,,0.0,
+Clonazepam,Aleve,Stretching,physical therapy,Pepto-bismol,Therapy,Compression Stockings,row
+,,,,0.0,,,Clonazepam
+,,0.0,0.0,,0.0,0.0,Aleve
+,0.0,,0.0,,0.0,0.0,Stretching
+,0.0,0.0,,,0.0,0.0,physical therapy
+0.0,,,,,,,Pepto-bismol
+,0.0,0.0,0.0,,,0.0,Therapy
+,0.0,0.0,0.0,,0.0,,Compression Stockings

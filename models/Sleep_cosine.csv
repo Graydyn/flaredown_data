@@ -1,5 +1,5 @@
-Adderall,Aleve,Plaquenil,Provigil
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+Adderall,Aleve,Plaquenil,Provigil,row
+,0.0,0.0,0.0,Adderall
+0.0,,0.0,0.0,Aleve
+0.0,0.0,,0.0,Plaquenil
+0.0,0.0,0.0,,Provigil

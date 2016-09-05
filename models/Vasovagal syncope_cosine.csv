@@ -1,5 +1,5 @@
-Ate meat,physical exhaustion,forgetful,ice cream
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+Ate meat,physical exhaustion,forgetful,ice cream,row
+,0.0,0.0,0.0,Ate meat
+0.0,,0.0,0.0,physical exhaustion
+0.0,0.0,,0.0,forgetful
+0.0,0.0,0.0,,ice cream

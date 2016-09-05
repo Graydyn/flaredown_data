@@ -1,5 +1,5 @@
-had sex,alcohol,walked,tired
-,0.0,2.0,2.0
-0.0,,2.0,2.0
-2.0,2.0,,0.0
-2.0,2.0,0.0,
+had sex,alcohol,walked,tired,row
+,0.0,2.0,2.0,had sex
+0.0,,2.0,2.0,alcohol
+2.0,2.0,,0.0,walked
+2.0,2.0,0.0,,tired

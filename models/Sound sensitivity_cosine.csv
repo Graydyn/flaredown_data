@@ -1,7 +1,7 @@
-Vitamin D3,Iodine,Magnesium citrate,Calcium,Vitamin b12,electric wheelchair
-,2.0,0.0,0.0,0.0,0.0
-2.0,,2.0,2.0,2.0,2.0
-0.0,2.0,,0.0,0.0,0.0
-0.0,2.0,0.0,,0.0,0.0
-0.0,2.0,0.0,0.0,,0.0
-0.0,2.0,0.0,0.0,0.0,
+Vitamin D3,Iodine,Magnesium citrate,Calcium,Vitamin b12,electric wheelchair,row
+,2.0,0.0,0.0,0.0,0.0,Vitamin D3
+2.0,,2.0,2.0,2.0,2.0,Iodine
+0.0,2.0,,0.0,0.0,0.0,Magnesium citrate
+0.0,2.0,0.0,,0.0,0.0,Calcium
+0.0,2.0,0.0,0.0,,0.0,Vitamin b12
+0.0,2.0,0.0,0.0,0.0,,electric wheelchair

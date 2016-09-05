@@ -1,8 +1,8 @@
-rest day,tired,doctor appointment,"blood test, ",stressed,leg spasms,headache
-,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,
+rest day,tired,doctor appointment,"blood test, ",stressed,leg spasms,headache,row
+,0.0,0.0,0.0,0.0,0.0,0.0,rest day
+0.0,,0.0,0.0,0.0,0.0,0.0,tired
+0.0,0.0,,0.0,0.0,0.0,0.0,doctor appointment
+0.0,0.0,0.0,,0.0,0.0,0.0,"blood test, "
+0.0,0.0,0.0,0.0,,0.0,0.0,stressed
+0.0,0.0,0.0,0.0,0.0,,0.0,leg spasms
+0.0,0.0,0.0,0.0,0.0,0.0,,headache

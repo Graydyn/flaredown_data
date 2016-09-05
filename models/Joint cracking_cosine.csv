@@ -1,13 +1,13 @@
-Benadryl,Cetirizine,Ranitidine,Ibuprofen 600mg,Excedrin,Calcium citrate,Vitamin C,physical therapy,Albuterol Inhaler,Vitamin d,Diclofenac,Turmeric
-,0.0,0.0,,,0.0,0.0,,0.0,0.0,,0.0
-0.0,,0.0,,,0.0,0.0,,0.0,0.0,,0.0
-0.0,0.0,,,,0.0,0.0,,0.0,0.0,,0.0
-,,,,0.0,,,,,,,
-,,,0.0,,,,,,,,
-0.0,0.0,0.0,,,,0.0,,0.0,0.0,,0.0
-0.0,0.0,0.0,,,0.0,,,0.0,0.0,,0.0
-,,,,,,,,,,,
-0.0,0.0,0.0,,,0.0,0.0,,,0.0,,0.0
-0.0,0.0,0.0,,,0.0,0.0,,0.0,,,0.0
-,,,,,,,,,,,
-0.0,0.0,0.0,,,0.0,0.0,,0.0,0.0,,
+Benadryl,Cetirizine,Ranitidine,Ibuprofen 600mg,Excedrin,Calcium citrate,Vitamin C,physical therapy,Albuterol Inhaler,Vitamin d,Diclofenac,Turmeric,row
+,0.0,0.0,,,0.0,0.0,,0.0,0.0,,0.0,Benadryl
+0.0,,0.0,,,0.0,0.0,,0.0,0.0,,0.0,Cetirizine
+0.0,0.0,,,,0.0,0.0,,0.0,0.0,,0.0,Ranitidine
+,,,,0.0,,,,,,,,Ibuprofen 600mg
+,,,0.0,,,,,,,,,Excedrin
+0.0,0.0,0.0,,,,0.0,,0.0,0.0,,0.0,Calcium citrate
+0.0,0.0,0.0,,,0.0,,,0.0,0.0,,0.0,Vitamin C
+,,,,,,,,,,,,physical therapy
+0.0,0.0,0.0,,,0.0,0.0,,,0.0,,0.0,Albuterol Inhaler
+0.0,0.0,0.0,,,0.0,0.0,,0.0,,,0.0,Vitamin d
+,,,,,,,,,,,,Diclofenac
+0.0,0.0,0.0,,,0.0,0.0,,0.0,0.0,,,Turmeric

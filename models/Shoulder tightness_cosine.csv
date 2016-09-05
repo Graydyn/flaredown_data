@@ -1,9 +1,9 @@
-Solifenacin,Ritalin,Probiotic,BeachBody OnDemand,Cyclizine,Vitamin b12,Feverfew,Passionflower
-,0.0,0.0,0.0,2.0,0.0,0.0,0.0
-0.0,,0.0,0.0,2.0,0.0,0.0,0.0
-0.0,0.0,,0.0,2.0,0.0,0.0,0.0
-0.0,0.0,0.0,,2.0,0.0,0.0,0.0
-2.0,2.0,2.0,2.0,,2.0,2.0,2.0
-0.0,0.0,0.0,0.0,2.0,,0.0,0.0
-0.0,0.0,0.0,0.0,2.0,0.0,,0.0
-0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Solifenacin,Ritalin,Probiotic,BeachBody OnDemand,Cyclizine,Vitamin b12,Feverfew,Passionflower,row
+,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Solifenacin
+0.0,,0.0,0.0,2.0,0.0,0.0,0.0,Ritalin
+0.0,0.0,,0.0,2.0,0.0,0.0,0.0,Probiotic
+0.0,0.0,0.0,,2.0,0.0,0.0,0.0,BeachBody OnDemand
+2.0,2.0,2.0,2.0,,2.0,2.0,2.0,Cyclizine
+0.0,0.0,0.0,0.0,2.0,,0.0,0.0,Vitamin b12
+0.0,0.0,0.0,0.0,2.0,0.0,,0.0,Feverfew
+0.0,0.0,0.0,0.0,2.0,0.0,0.0,,Passionflower

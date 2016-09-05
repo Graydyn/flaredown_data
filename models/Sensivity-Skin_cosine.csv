@@ -1,9 +1,9 @@
-Vitamin D3,Iodine,Magnesium citrate,Calcium,Vitamin b12,Lexam,electric wheelchair,Tolterodine
-,0.0,0.0,0.0,0.0,,0.0,
-0.0,,0.0,0.0,0.0,,0.0,
-0.0,0.0,,0.0,0.0,,0.0,
-0.0,0.0,0.0,,0.0,,0.0,
-0.0,0.0,0.0,0.0,,,0.0,
-,,,,,,,
-0.0,0.0,0.0,0.0,0.0,,,
-,,,,,,,
+Vitamin D3,Iodine,Magnesium citrate,Calcium,Vitamin b12,Lexam,electric wheelchair,Tolterodine,row
+,0.0,0.0,0.0,0.0,,0.0,,Vitamin D3
+0.0,,0.0,0.0,0.0,,0.0,,Iodine
+0.0,0.0,,0.0,0.0,,0.0,,Magnesium citrate
+0.0,0.0,0.0,,0.0,,0.0,,Calcium
+0.0,0.0,0.0,0.0,,,0.0,,Vitamin b12
+,,,,,,,,Lexam
+0.0,0.0,0.0,0.0,0.0,,,,electric wheelchair
+,,,,,,,,Tolterodine

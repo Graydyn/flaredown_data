@@ -1,6 +1,6 @@
-Anxious,hopeful,Coffee,good sleep,cleaning
-,2.0,0.0,0.0,0.0
-2.0,,2.0,2.0,2.0
-0.0,2.0,,0.0,0.0
-0.0,2.0,0.0,,0.0
-0.0,2.0,0.0,0.0,
+Anxious,hopeful,Coffee,good sleep,cleaning,row
+,2.0,0.0,0.0,0.0,Anxious
+2.0,,2.0,2.0,2.0,hopeful
+0.0,2.0,,0.0,0.0,Coffee
+0.0,2.0,0.0,,0.0,good sleep
+0.0,2.0,0.0,0.0,,cleaning

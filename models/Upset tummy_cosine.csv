@@ -1,6 +1,6 @@
-antihistamines,Panamax,Creatine,Soluble Aspirin,Acetyl Carnitine
-,2.0,0.0,2.0,0.0
-2.0,,2.0,0.0,2.0
-0.0,2.0,,2.0,0.0
-2.0,0.0,2.0,,2.0
-0.0,2.0,0.0,2.0,
+antihistamines,Panamax,Creatine,Soluble Aspirin,Acetyl Carnitine,row
+,2.0,0.0,2.0,0.0,antihistamines
+2.0,,2.0,0.0,2.0,Panamax
+0.0,2.0,,2.0,0.0,Creatine
+2.0,0.0,2.0,,2.0,Soluble Aspirin
+0.0,2.0,0.0,2.0,,Acetyl Carnitine

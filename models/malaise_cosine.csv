@@ -1,7 +1,7 @@
-Triamcinolone,Flexeril,Tetralabs Gold Caps CBN,Cefaly Unit,Tetralabs Gold Caps,Mt. Si ACDC 2x Coco Caps
-,,,,,
-,,2.0,0.0,2.0,0.0
-,2.0,,2.0,0.0,2.0
-,0.0,2.0,,2.0,0.0
-,2.0,0.0,2.0,,2.0
-,0.0,2.0,0.0,2.0,
+Triamcinolone,Flexeril,Tetralabs Gold Caps CBN,Cefaly Unit,Tetralabs Gold Caps,Mt. Si ACDC 2x Coco Caps,row
+,,,,,,Triamcinolone
+,,2.0,0.0,2.0,0.0,Flexeril
+,2.0,,2.0,0.0,2.0,Tetralabs Gold Caps CBN
+,0.0,2.0,,2.0,0.0,Cefaly Unit
+,2.0,0.0,2.0,,2.0,Tetralabs Gold Caps
+,0.0,2.0,0.0,2.0,,Mt. Si ACDC 2x Coco Caps

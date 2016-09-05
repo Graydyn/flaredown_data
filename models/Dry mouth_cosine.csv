@@ -1,10 +1,10 @@
-Coconut Oil Pulling,amphetamine salts,Sertraline,Gelatin,Magnesium,Iron,Borage oil,Wellbutrin,Gabapentin
-,,,,,,,,
-,,,2.0,,,0.0,,
-,,,,2.0,2.0,,0.0,
-,2.0,,,,,1.64447205603,,
-,,2.0,,,0.0,,2.0,
-,,2.0,,0.0,,,2.0,
-,0.0,,1.64447205603,,,,,
-,,0.0,,2.0,2.0,,,
-,,,,,,,,
+Coconut Oil Pulling,amphetamine salts,Sertraline,Gelatin,Magnesium,Iron,Borage oil,Wellbutrin,Gabapentin,row
+,,,,,,,,,Coconut Oil Pulling
+,,,2.0,,,0.0,,,amphetamine salts
+,,,,2.0,2.0,,0.0,,Sertraline
+,2.0,,,,,1.64447205603,,,Gelatin
+,,2.0,,,0.0,,2.0,,Magnesium
+,,2.0,,0.0,,,2.0,,Iron
+,0.0,,1.64447205603,,,,,,Borage oil
+,,0.0,,2.0,2.0,,,,Wellbutrin
+,,,,,,,,,Gabapentin

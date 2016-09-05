@@ -1,9 +1,9 @@
-Coffee,Aleve,Ginger,anti-nausea pills,Plaquenil,Provigil,Ibuprofen,Adderall
-,,,,,,0.0,
-,,,,0.0,0.0,,0.0
-,,,,,,,
-,,,,,,,
-,0.0,,,,0.0,,0.0
-,0.0,,,0.0,,,0.0
-0.0,,,,,,,
-,0.0,,,0.0,0.0,,
+Coffee,Aleve,Ginger,anti-nausea pills,Plaquenil,Provigil,Ibuprofen,Adderall,row
+,,,,,,0.0,,Coffee
+,,,,0.0,0.0,,0.0,Aleve
+,,,,,,,,Ginger
+,,,,,,,,anti-nausea pills
+,0.0,,,,0.0,,0.0,Plaquenil
+,0.0,,,0.0,,,0.0,Provigil
+0.0,,,,,,,,Ibuprofen
+,0.0,,,0.0,0.0,,,Adderall

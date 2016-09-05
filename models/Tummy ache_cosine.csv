@@ -1,9 +1,9 @@
-woke afternoon,sad,model trains,construction,sas,drinking,heavy physcial exertion,Irritated
-,,2.0,2.0,,2.0,2.0,
-,,,,0.0,,,0.0
-2.0,,,0.0,,0.0,0.0,
-2.0,,0.0,,,0.0,0.0,
-,0.0,,,,,,0.0
-2.0,,0.0,0.0,,,0.0,
-2.0,,0.0,0.0,,0.0,,
-,0.0,,,0.0,,,
+woke afternoon,sad,model trains,construction,sas,drinking,heavy physcial exertion,Irritated,row
+,,2.0,2.0,,2.0,2.0,,woke afternoon
+,,,,0.0,,,0.0,sad
+2.0,,,0.0,,0.0,0.0,,model trains
+2.0,,0.0,,,0.0,0.0,,construction
+,0.0,,,,,,0.0,sas
+2.0,,0.0,0.0,,,0.0,,drinking
+2.0,,0.0,0.0,,0.0,,,heavy physcial exertion
+,0.0,,,0.0,,,,Irritated

@@ -1,6 +1,6 @@
-Hydrocortisone,Coffee,AM meds,Florinef,Ibuprofen
-,,2.0,0.0,
-,,,,0.0
-2.0,,,2.0,
-0.0,,2.0,,
-,0.0,,,
+Hydrocortisone,Coffee,AM meds,Florinef,Ibuprofen,row
+,,2.0,0.0,,Hydrocortisone
+,,,,0.0,Coffee
+2.0,,,2.0,,AM meds
+0.0,,2.0,,,Florinef
+,0.0,,,,Ibuprofen

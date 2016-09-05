@@ -1,7 +1,7 @@
-good sleep,walked,feels,had sex,stressed,ate breakfast
-,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,
+good sleep,walked,feels,had sex,stressed,ate breakfast,row
+,0.0,0.0,0.0,0.0,0.0,good sleep
+0.0,,0.0,0.0,0.0,0.0,walked
+0.0,0.0,,0.0,0.0,0.0,feels
+0.0,0.0,0.0,,0.0,0.0,had sex
+0.0,0.0,0.0,0.0,,0.0,stressed
+0.0,0.0,0.0,0.0,0.0,,ate breakfast

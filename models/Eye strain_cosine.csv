@@ -1,12 +1,12 @@
-Topical ibuprofen,Walking,Goth clubbing,Triamcinolone,Synthroid,Cranberry extract,Acupuncture,Ibuprofen,Amitriptyline,tumeric extract,Gabapentin
-,0.0,,,,0.0,,0.0,0.0,,0.0
-0.0,,,,,0.0,,0.0,0.0,,0.0
-,,,,0.0,,0.0,,,2.0,
-,,,,,,,,,,
-,,0.0,,,,0.0,,,2.0,
-0.0,0.0,,,,,,0.0,0.0,,0.0
-,,0.0,,0.0,,,,,2.0,
-0.0,0.0,,,,0.0,,,0.0,,0.0
-0.0,0.0,,,,0.0,,0.0,,,0.0
-,,2.0,,2.0,,2.0,,,,
-0.0,0.0,,,,0.0,,0.0,0.0,,
+Topical ibuprofen,Walking,Goth clubbing,Triamcinolone,Synthroid,Cranberry extract,Acupuncture,Ibuprofen,Amitriptyline,tumeric extract,Gabapentin,row
+,0.0,,,,0.0,,0.0,0.0,,0.0,Topical ibuprofen
+0.0,,,,,0.0,,0.0,0.0,,0.0,Walking
+,,,,0.0,,0.0,,,2.0,,Goth clubbing
+,,,,,,,,,,,Triamcinolone
+,,0.0,,,,0.0,,,2.0,,Synthroid
+0.0,0.0,,,,,,0.0,0.0,,0.0,Cranberry extract
+,,0.0,,0.0,,,,,2.0,,Acupuncture
+0.0,0.0,,,,0.0,,,0.0,,0.0,Ibuprofen
+0.0,0.0,,,,0.0,,0.0,,,0.0,Amitriptyline
+,,2.0,,2.0,,2.0,,,,,tumeric extract
+0.0,0.0,,,,0.0,,0.0,0.0,,,Gabapentin

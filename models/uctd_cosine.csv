@@ -1,9 +1,9 @@
-Started cycle,painful,"""Flu-ey""",pooped,ache-y,nerves feel like red ant bites randomly bite in strange locations,emotional,faitgue
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Started cycle,painful,"""Flu-ey""",pooped,ache-y,nerves feel like red ant bites randomly bite in strange locations,emotional,faitgue,row
+,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Started cycle
+0.0,,0.0,0.0,0.0,0.0,0.0,0.0,painful
+0.0,0.0,,0.0,0.0,0.0,0.0,0.0,"""Flu-ey"""
+0.0,0.0,0.0,,0.0,0.0,0.0,0.0,pooped
+0.0,0.0,0.0,0.0,,0.0,0.0,0.0,ache-y
+0.0,0.0,0.0,0.0,0.0,,0.0,0.0,nerves feel like red ant bites randomly bite in strange locations
+0.0,0.0,0.0,0.0,0.0,0.0,,0.0,emotional
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,,faitgue

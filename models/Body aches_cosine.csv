@@ -1,8 +1,8 @@
-Spironolactone,Triamcinolone,Zofran,Tizanidine,Buspirone,Temazepam,Aspirin
-,,2.0,,0.0,0.0,0.0
-,,,,,,
-2.0,,,,2.0,2.0,2.0
-,,,,,,
-0.0,,2.0,,,0.0,0.0
-0.0,,2.0,,0.0,,0.0
-0.0,,2.0,,0.0,0.0,
+Spironolactone,Triamcinolone,Zofran,Tizanidine,Buspirone,Temazepam,Aspirin,row
+,,2.0,,0.0,0.0,0.0,Spironolactone
+,,,,,,,Triamcinolone
+2.0,,,,2.0,2.0,2.0,Zofran
+,,,,,,,Tizanidine
+0.0,,2.0,,,0.0,0.0,Buspirone
+0.0,,2.0,,0.0,,0.0,Temazepam
+0.0,,2.0,,0.0,0.0,,Aspirin

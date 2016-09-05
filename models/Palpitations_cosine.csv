@@ -1,15 +1,15 @@
-Multi vitamin,Albuterol,Vitamin D3,Zyrtec,physical therapy,use exercise bike,Ligament Restore,Selenium,SAD Light Box,Vitamin C,Toprol,Levothyroxine,Amitriptyline,Gabapentin
-,,,,,,0.0,,,0.0,,,2.0,
-,,,0.0,,,,,,,,,,
-,,,,,,,,0.0,0.0,,,2.0,
-,0.0,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-0.0,,,,,,,,,0.0,,,2.0,
-,,,,,,,,,0.137437714795,,0.140190451947,,
-,,0.0,,,,,,,0.0,,,2.0,
-0.0,,0.0,,,,0.0,0.137437714795,0.0,,,1.46651107461e-05,2.0,
-,,,,,,,,,,,,,
-,,,,,,,0.140190451947,,1.46651107461e-05,,,,
-2.0,,2.0,,,,2.0,,2.0,2.0,,,,
-,,,,,,,,,,,,,
+Multi vitamin,Albuterol,Vitamin D3,Zyrtec,physical therapy,use exercise bike,Ligament Restore,Selenium,SAD Light Box,Vitamin C,Toprol,Levothyroxine,Amitriptyline,Gabapentin,row
+,,,,,,0.0,,,0.0,,,2.0,,Multi vitamin
+,,,0.0,,,,,,,,,,,Albuterol
+,,,,,,,,0.0,0.0,,,2.0,,Vitamin D3
+,0.0,,,,,,,,,,,,,Zyrtec
+,,,,,,,,,,,,,,physical therapy
+,,,,,,,,,,,,,,use exercise bike
+0.0,,,,,,,,,0.0,,,2.0,,Ligament Restore
+,,,,,,,,,0.137437714795,,0.140190451947,,,Selenium
+,,0.0,,,,,,,0.0,,,2.0,,SAD Light Box
+0.0,,0.0,,,,0.0,0.137437714795,0.0,,,1.46651107463e-05,2.0,,Vitamin C
+,,,,,,,,,,,,,,Toprol
+,,,,,,,0.140190451947,,1.46651107463e-05,,,,,Levothyroxine
+2.0,,2.0,,,,2.0,,2.0,2.0,,,,,Amitriptyline
+,,,,,,,,,,,,,,Gabapentin

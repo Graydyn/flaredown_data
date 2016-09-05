@@ -1,5 +1,5 @@
-Methotrexate,Mediterranean Diet,Folic acid,Aga
-,0.0,0.0,0.0
-0.0,,0.0,0.0
-0.0,0.0,,0.0
-0.0,0.0,0.0,
+Methotrexate,Mediterranean Diet,Folic acid,Aga,row
+,0.0,0.0,0.0,Methotrexate
+0.0,,0.0,0.0,Mediterranean Diet
+0.0,0.0,,0.0,Folic acid
+0.0,0.0,0.0,,Aga

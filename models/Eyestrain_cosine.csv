@@ -1,7 +1,7 @@
-Went to work,tired,eye fatigue,walked,stressed,ate breakfast
-,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,
+Went to work,tired,eye fatigue,walked,stressed,ate breakfast,row
+,0.0,0.0,0.0,0.0,0.0,Went to work
+0.0,,0.0,0.0,0.0,0.0,tired
+0.0,0.0,,0.0,0.0,0.0,eye fatigue
+0.0,0.0,0.0,,0.0,0.0,walked
+0.0,0.0,0.0,0.0,,0.0,stressed
+0.0,0.0,0.0,0.0,0.0,,ate breakfast

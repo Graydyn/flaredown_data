@@ -1,8 +1,8 @@
-tired,not stressed,going outside every day,spent day with others,dizzy,not in a rush,not working
-,0.0,0.0,0.0,0.0,0.0,0.0
-0.0,,0.0,0.0,0.0,0.0,0.0
-0.0,0.0,,0.0,0.0,0.0,0.0
-0.0,0.0,0.0,,0.0,0.0,0.0
-0.0,0.0,0.0,0.0,,0.0,0.0
-0.0,0.0,0.0,0.0,0.0,,0.0
-0.0,0.0,0.0,0.0,0.0,0.0,
+tired,not stressed,going outside every day,spent day with others,dizzy,not in a rush,not working,row
+,0.0,0.0,0.0,0.0,0.0,0.0,tired
+0.0,,0.0,0.0,0.0,0.0,0.0,not stressed
+0.0,0.0,,0.0,0.0,0.0,0.0,going outside every day
+0.0,0.0,0.0,,0.0,0.0,0.0,spent day with others
+0.0,0.0,0.0,0.0,,0.0,0.0,dizzy
+0.0,0.0,0.0,0.0,0.0,,0.0,not in a rush
+0.0,0.0,0.0,0.0,0.0,0.0,,not working

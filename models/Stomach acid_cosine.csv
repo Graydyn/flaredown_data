@@ -1,7 +1,7 @@
-Topical ibuprofen,Walking,Cranberry extract,Ibuprofen,Amitriptyline,Gabapentin
-,,,,,
-,,2.0,,2.0,2.0
-,2.0,,,0.0,0.0
-,,,,,
-,2.0,0.0,,,0.0
-,2.0,0.0,,0.0,
+Topical ibuprofen,Walking,Cranberry extract,Ibuprofen,Amitriptyline,Gabapentin,row
+,,,,,,Topical ibuprofen
+,,2.0,,2.0,2.0,Walking
+,2.0,,,0.0,0.0,Cranberry extract
+,,,,,,Ibuprofen
+,2.0,0.0,,,0.0,Amitriptyline
+,2.0,0.0,,0.0,,Gabapentin

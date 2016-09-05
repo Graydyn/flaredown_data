@@ -1,8 +1,8 @@
-saw samantha,Unmotivated,Day two,good sleep,Day3,stressed,Gabapentin
-,,,,,,
-,,,,,,
-,,,2.0,0.0,,
-,,2.0,,2.0,,
-,,0.0,2.0,,,
-,,,,,,
-,,,,,,
+saw samantha,Unmotivated,Day two,good sleep,Day3,stressed,Gabapentin,row
+,,,,,,,saw samantha
+,,,,,,,Unmotivated
+,,,2.0,0.0,,,Day two
+,,2.0,,2.0,,,good sleep
+,,0.0,2.0,,,,Day3
+,,,,,,,stressed
+,,,,,,,Gabapentin

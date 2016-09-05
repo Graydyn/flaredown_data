@@ -1,4 +1,4 @@
-Colesevelam,Calcium Suplment,Questran
-,2.0,0.0
-2.0,,2.0
-0.0,2.0,
+Colesevelam,Calcium Suplment,Questran,row
+,2.0,0.0,Colesevelam
+2.0,,2.0,Calcium Suplment
+0.0,2.0,,Questran

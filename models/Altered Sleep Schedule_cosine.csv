@@ -1,6 +1,6 @@
-Allegra,Coffee,Ventolin,Toprol,Topamax
-,2.0,0.0,,2.0
-2.0,,2.0,,0.0
-0.0,2.0,,,2.0
-,,,,
-2.0,0.0,2.0,,
+Allegra,Coffee,Ventolin,Toprol,Topamax,row
+,2.0,0.0,,2.0,Allegra
+2.0,,2.0,,0.0,Coffee
+0.0,2.0,,,2.0,Ventolin
+,,,,,Toprol
+2.0,0.0,2.0,,,Topamax

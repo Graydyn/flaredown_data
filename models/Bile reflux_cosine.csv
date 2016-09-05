@@ -1,10 +1,10 @@
-anxiety,tired,depressed,functional,early hours,hopeless,in pain,very long day,fine
-,,,,,,,,
-,,0.0,0.0,,0.0,0.0,,0.0
-,0.0,,0.0,,0.0,0.0,,0.0
-,0.0,0.0,,,0.0,0.0,,0.0
-,,,,,,,,
-,0.0,0.0,0.0,,,0.0,,0.0
-,0.0,0.0,0.0,,0.0,,,0.0
-,,,,,,,,
-,0.0,0.0,0.0,,0.0,0.0,,
+anxiety,tired,depressed,functional,early hours,hopeless,in pain,very long day,fine,row
+,,,,,,,,,anxiety
+,,0.0,0.0,,0.0,0.0,,0.0,tired
+,0.0,,0.0,,0.0,0.0,,0.0,depressed
+,0.0,0.0,,,0.0,0.0,,0.0,functional
+,,,,,,,,,early hours
+,0.0,0.0,0.0,,,0.0,,0.0,hopeless
+,0.0,0.0,0.0,,0.0,,,0.0,in pain
+,,,,,,,,,very long day
+,0.0,0.0,0.0,,0.0,0.0,,,fine

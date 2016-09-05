@@ -1,9 +1,9 @@
-mag ox,Resrticted diet,Physical activity,Trileptal,Lyrica,THC,Sleep,Wellbutrin
-,,,0.0,2.0,,,0.0
-,,,,,0.0,,
-,,,,,,,
-0.0,,,,2.0,,,0.0
-2.0,,,2.0,,,,2.0
-,0.0,,,,,,
-,,,,,,,
-0.0,,,0.0,2.0,,,
+mag ox,Resrticted diet,Physical activity,Trileptal,Lyrica,THC,Sleep,Wellbutrin,row
+,,,0.0,2.0,,,0.0,mag ox
+,,,,,0.0,,,Resrticted diet
+,,,,,,,,Physical activity
+0.0,,,,2.0,,,0.0,Trileptal
+2.0,,,2.0,,,,2.0,Lyrica
+,0.0,,,,,,,THC
+,,,,,,,,Sleep
+0.0,,,0.0,2.0,,,,Wellbutrin

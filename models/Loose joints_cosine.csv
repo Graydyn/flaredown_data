@@ -1,6 +1,6 @@
-physical therapy,nsaid,Phentermine,THC,Candesartan
-,,,,
-,,,,
-,,,,2.0
-,,,,
-,,2.0,,
+physical therapy,nsaid,Phentermine,THC,Candesartan,row
+,,,,,physical therapy
+,,,,,nsaid
+,,,,2.0,Phentermine
+,,,,,THC
+,,2.0,,,Candesartan
