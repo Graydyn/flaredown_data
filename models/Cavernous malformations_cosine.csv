@@ -1,9 +1,5 @@
-alcohol,walked,playing cards,had sex,cartoons,stressed,dairy,gluten,row
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,alcohol
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0,walked
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0,playing cards
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,had sex
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0,cartoons
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,stressed
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0,dairy
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,gluten
+had sex,dairy,gluten,walked,row
+,0.0,0.0,0.0,had sex
+0.0,,0.0,0.0,dairy
+0.0,0.0,,0.0,gluten
+0.0,0.0,0.0,,walked

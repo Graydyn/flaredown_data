@@ -1,10 +1,3 @@
-rainy,good,sitting,travel,work,good sleep,walked 2 miles,couch potato,ibs issues,row
-,,0.0,0.0,0.0,0.0,,,,rainy
-,,,,,0.0,0.0,0.0,0.0,good
-0.0,,,0.0,0.0,0.0,,,,sitting
-0.0,,0.0,,0.0,0.0,,,,travel
-0.0,,0.0,0.0,,0.0,,,,work
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,good sleep
-,0.0,,,,0.0,,0.0,0.0,walked 2 miles
-,0.0,,,,0.0,0.0,,0.0,couch potato
-,0.0,,,,0.0,0.0,0.0,,ibs issues
+travel,sitting,row
+,0.0,travel
+0.0,,sitting

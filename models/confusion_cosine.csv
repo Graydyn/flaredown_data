@@ -1,18 +1,3 @@
-Medication problems,immoble,Painful all over,thirsty,tired,depressed,Two days spilling on self.,Stressed,hungry,No sleep at all,Delusions,It was a bad idea,stressed,sas,Slept during day,Dozing all day,Slept a lot,row
-,,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,Medication problems
-,,,0.0,0.0,,,,0.0,,,0.0,0.0,0.0,,,,immoble
-0.0,,,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,Painful all over
-,0.0,,,0.0,,,,0.0,,,0.0,0.0,0.0,,,,thirsty
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.000630569985484,0.0,0.0,0.0,0.0,tired
-0.0,,0.0,,0.0,,0.0,0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,depressed
-0.0,,0.0,,0.0,0.0,,0.0,,0.0,0.0,,0.0,,0.0,0.0,0.0,Two days spilling on self.
-0.0,,0.0,,0.0,0.0,0.0,,,0.0,0.0,,0.0,,0.0,0.0,0.0,Stressed
-,0.0,,0.0,0.0,,,,,,,0.0,0.0,0.0,,,,hungry
-0.0,,0.0,,0.0,0.0,0.0,0.0,,,0.0,,0.0,,0.0,0.0,0.0,No sleep at all
-0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0,,,0.0,,0.0,0.0,0.0,Delusions
-,0.0,,0.0,0.0,,,,0.0,,,,0.0,0.0,,,,It was a bad idea
-0.0,0.0,0.0,0.0,0.000630569985484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,stressed
-,0.0,,0.0,0.0,,,,0.0,,,0.0,0.0,,,,,sas
-0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,,,0.0,0.0,Slept during day
-0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,,0.0,,0.0,Dozing all day
-0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,,0.0,0.0,,Slept a lot
+Slept a lot,Slept during day,row
+,0.0,Slept a lot
+0.0,,Slept during day

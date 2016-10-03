@@ -1,0 +1,20 @@
+Car travel,slept late,Flexeril,11K steps,grocery shopping,ate gluten,studied,Synthroid,Kayaking,fun shopping,shopped,15K steps,2K steps,took naps,Vitamin d,Amitriptyline,played video games,Metformin,8k steps,row
+,,,,,,,,,,,,,,,,,,,Car travel
+,,,,,,,,,,,,,,,,,,,slept late
+,,,,,-1.0,,1.0,,,,,,,1.0,1.0,,1.0,,Flexeril
+,,,,,,,,,,,,,,,,,,,11K steps
+,,,,,,,,,,,,,,,,,,,grocery shopping
+,,-1.0,,,,,-1.0,,,,,,,-1.0,-1.0,,-1.0,,ate gluten
+,,,,,,,,,,,,,,,,,,,studied
+,,1.0,,,-1.0,,,,,,,,,1.0,1.0,,1.0,,Synthroid
+,,,,,,,,,,,,,,,,,,,Kayaking
+,,,,,,,,,,,,,,,,,,,fun shopping
+,,,,,,,,,,,,,,,,,,,shopped
+,,,,,,,,,,,,,,,,,,,15K steps
+,,,,,,,,,,,,,,,,,,,2K steps
+,,,,,,,,,,,,,,,,,,,took naps
+,,1.0,,,-1.0,,1.0,,,,,,,,1.0,,1.0,,Vitamin d
+,,1.0,,,-1.0,,1.0,,,,,,,1.0,,,1.0,,Amitriptyline
+,,,,,,,,,,,,,,,,,,,played video games
+,,1.0,,,-1.0,,1.0,,,,,,,1.0,1.0,,,,Metformin
+,,,,,,,,,,,,,,,,,,,8k steps

@@ -1,0 +1,34 @@
+age,sex,country,condition,treatment,before_value,after_value,effectiveness
+44,female,US,Allergy,Escitalopram,1.0833333333,0.5,0.5833333333
+44,female,US,Allergy,Magnesium,0.8,0.3333333333,0.4666666667
+44,female,US,Anxiety,Escitalopram,2.0666666667,0.5,1.5666666667
+44,female,US,Anxiety,Magnesium,1.7826086957,0.6666666667,1.115942029
+44,female,US,Constipation,Escitalopram,0.6666666667,0.2916666667,0.375
+44,female,US,Constipation,Magnesium,0.55,0,0.55
+44,female,US,Depression,Escitalopram,0.6,0.2916666667,0.3083333333
+44,female,US,Depression,Magnesium,0.5217391304,1,-0.4782608696
+44,female,US,Diarrhea,Escitalopram,0.8333333333,0.2083333333,0.625
+44,female,US,Diarrhea,Magnesium,0.6,0.3333333333,0.2666666667
+44,female,US,Difficulty concentrating,Magnesium,0.5384615385,0,0.5384615385
+44,female,US,Fatigue,Escitalopram,2.375,1.2083333333,1.1666666667
+44,female,US,Fatigue,Magnesium,2.25,1.3333333333,0.9166666667
+44,female,US,Feeling bad about self,Magnesium,0.2307692308,0.6666666667,-0.4358974359
+44,female,US,Hot flashes,Escitalopram,0.3125,0.25,0.0625
+44,female,US,Hot flashes,Magnesium,0.2916666667,0.3333333333,-0.0416666667
+44,female,US,Hyperactivity,Magnesium,0.5384615385,0.3333333333,0.2051282051
+44,female,US,Insomnia,Escitalopram,2,0.125,1.875
+44,female,US,Insomnia,Magnesium,1.25,0,1.25
+44,female,US,Irritability,Magnesium,1.2307692308,0.6666666667,0.5641025641
+44,female,US,Little interest in things,Magnesium,0.3846153846,1,-0.6153846154
+44,female,US,Overly self confident,Magnesium,0,0,0
+44,female,US,Oversleeping,Escitalopram,0.2307692308,0.0416666667,0.1891025641
+44,female,US,Oversleeping,Magnesium,0.1904761905,0,0.1904761905
+44,female,US,Poor Appetite,Magnesium,0.3333333333,0,0.3333333333
+44,female,US,Racing thoughts,Magnesium,1,0,1
+44,female,US,Risky behavior,Magnesium,0,0,0
+44,female,US,Suicidal Thoughts,Magnesium,0,0,0
+44,female,US,hives,Escitalopram,0.2307692308,0.375,-0.1442307692
+44,female,US,hives,Magnesium,0.3333333333,0.6666666667,-0.3333333333
+44,female,US,lack of self care,Magnesium,0.1538461538,0,0.1538461538
+44,female,US,lack of self confidence,Magnesium,0.5384615385,1.3333333333,-0.7948717949
+44,female,US,overly talkative,Magnesium,0.3846153846,0,0.3846153846

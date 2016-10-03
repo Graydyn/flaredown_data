@@ -1,6 +1,4 @@
-stressed,dairy,period,ate breakfast,Ibuprofen,row
-,0.0,0.0,0.0,0.0,stressed
-0.0,,0.0,0.0,0.0,dairy
-0.0,0.0,,0.0,0.0,period
-0.0,0.0,0.0,,0.0,ate breakfast
-0.0,0.0,0.0,0.0,,Ibuprofen
+dairy,ate breakfast,Ibuprofen,row
+,0.0,0.0,dairy
+0.0,,0.0,ate breakfast
+0.0,0.0,,Ibuprofen

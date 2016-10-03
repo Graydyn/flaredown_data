@@ -1,14 +1,5 @@
-went shopping,Infusion ,anaphylactic shock,physical therapy,weekend,PMS,period,sugar,Computer,bike ride,bad pain day,Late lunch,beach,row
-,,,0.0,0.0,0.0,0.0,,0.0,0.0,,,,went shopping
-,,0.0,,,,0.0,0.0,,,0.0,0.0,0.0,Infusion 
-,0.0,,,,,0.0,0.0,,,0.0,0.0,0.0,anaphylactic shock
-0.0,,,,0.0,0.0,0.0,,0.0,0.0,,,,physical therapy
-0.0,,,0.0,,0.0,0.0,,0.0,0.0,,,,weekend
-0.0,,,0.0,0.0,,0.0,,0.0,0.0,,,,PMS
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,period
-,0.0,0.0,,,,0.0,,,,0.0,0.0,0.0,sugar
-0.0,,,0.0,0.0,0.0,0.0,,,0.0,,,,Computer
-0.0,,,0.0,0.0,0.0,0.0,,0.0,,,,,bike ride
-,0.0,0.0,,,,0.0,0.0,,,,0.0,0.0,bad pain day
-,0.0,0.0,,,,0.0,0.0,,,0.0,,0.0,Late lunch
-,0.0,0.0,,,,0.0,0.0,,,0.0,0.0,,beach
+physical therapy,Late lunch,beach,sugar,row
+,,,,physical therapy
+,,0.0,0.0,Late lunch
+,0.0,,0.0,beach
+,0.0,0.0,,sugar

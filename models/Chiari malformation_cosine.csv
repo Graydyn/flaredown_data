@@ -1,14 +1,4 @@
-Saw apartment,moved house,Went to walmart,tired,Funeral,took a nap,cooked,Went to the store,Was a chauffeur,napped,nope,got tires fixed,dyed hair,row
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,Saw apartment
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,moved house
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,Went to walmart
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,tired
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,Funeral
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,took a nap
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,cooked
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,Went to the store
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,,0.0,0.0,Was a chauffeur
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,napped
-,,,,,,,,,,,,,nope
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,got tires fixed
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,,dyed hair
+cooked,Went to the store,Went to walmart,row
+,0.0,0.0,cooked
+0.0,,0.0,Went to the store
+0.0,0.0,,Went to walmart

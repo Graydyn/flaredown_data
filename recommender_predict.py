@@ -1,6 +1,6 @@
 ### Usage: python recommender_predict.py datafile modeldir <pearson|cosine>
-### Example: python recommender_predict.py effectiveness_test.csv models
-### Example: python recommender_predict.py effectiveness_test.csv models pearson
+### Example: python recommender_predict.py test_user_1.csv models
+### Example: python recommender_predict.py test_user_1.csv models pearson
 
 ### Takes in a single user's effectiveness measurements and determines what the most and least effect treatements for them will be
 
@@ -28,26 +28,12 @@ if len(sys.argv) == 4:
         print "distance metric must be pearson or cosine"
         quit()
 
-#run through each treatment that the user has tried and find the highest correlatation value to any of them
-def find_closest_pearson(treatment_correlations, x):
-    highestCorrelationValue = -2 #lowest possible correlation is -1
-    highestCorrelationKey = ""
-    for treatment1 in x:
-        if treatment1 in treatment_correlations:
-            treatment2_index = treatment_correlations[treatment1].idxmax(axis=1)
-            treatment2_value = treatment_correlations[treatment1][treatment2_index]
-            treatment2_key = treatment_correlations.iloc[treatment2_index]['row']
-            if treatment2_value > highestCorrelationValue:
-                highestCorrelationValue = treatment2_value
-                highestCorrelationKey = treatment2_key
-    return str(highestCorrelationValue) + ":" + highestCorrelationKey
-
 #get a list of all the conditions this user has
 #we will search each of them to see which one is most actionable
 #I'm just taking the highest and lowest predicted effectiveness for all conditions, could just as easily return a recommendation per condition
 conditions = list(set(test_df['condition']))
 
-highestPredictedValue = 0 
+highestPredictedValue = 0
 highestPredictedKey = ""
 highestPredictedCondition = ""
 lowestPredictedValue = 0
@@ -73,6 +59,8 @@ for condition in conditions:
         if len(condition_rows) > 0:
             tiedRows = condition_rows[
                 condition_rows['closest_correlation_value'] == condition_rows['closest_correlation_value'].max()]
+            best_fit_predicted_effectiveness = condition_rows.ix[tiedRows['effectiveness'].abs().idxmax()]['effectiveness']
+            best_fit_treatment_name = condition_rows.ix[tiedRows['effectiveness'].abs().idxmax()]['closest_correlation_name']
     else:
         condition_rows['closest_correlation_name'] = condition_rows['treatment'].apply(
             lambda x: correlations[correlations['row'] == x].drop('row', axis=1).idxmin(axis=1).values[0])
@@ -87,18 +75,22 @@ for condition in conditions:
 
     #Now we know which treatment that the user has tried has another treatment which is most highly correlated to it, so predict that
     #the new treatment will have an effectiveness similar to the original treatment
-    #print best_fit_predicted_effectiveness
-    #print best_fit_treatment_name
-    if highestPredictedValue < best_fit_predicted_effectiveness:
-        highestPredictedValue = best_fit_predicted_effectiveness
-        highestPredictedName = best_fit_treatment_name
-        highestPredictedCondition = condition
-    if lowestPredictedValue > best_fit_predicted_effectiveness:
-        lowestPredictedValue = best_fit_predicted_effectiveness
-        lowestPredictedName = best_fit_treatment_name
-        lowestPredictedCondition = condition
+    if best_fit_treatment_name not in test_df['treatment'].values: #a check to make sure we don't recommend a treatment they already use
+        if highestPredictedValue < best_fit_predicted_effectiveness:
+            highestPredictedValue = best_fit_predicted_effectiveness
+            highestPredictedName = best_fit_treatment_name
+            highestPredictedCondition = condition
+        if lowestPredictedValue > best_fit_predicted_effectiveness:
+            lowestPredictedValue = best_fit_predicted_effectiveness
+            lowestPredictedName = best_fit_treatment_name
+            lowestPredictedCondition = condition
 
+madeRec = False
 if highestPredictedValue > 0:
     print "This user may have good results treating " + highestPredictedCondition + " with " + highestPredictedName
+    madeRec = True
 if lowestPredictedValue < 0:
+    madeRec = True
     print "This user may have good results treating " + lowestPredictedCondition + " by staying away from " + lowestPredictedName
+if not madeRec:
+    print "We have no reliable recommendation to make for this user"

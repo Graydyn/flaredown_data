@@ -1,0 +1,64 @@
+age,sex,country,condition,treatment,before_value,after_value,effectiveness
+37,female,US,Bipolar Type 1,Late lunch,1.1666666667,1.5,-0.3333333333
+37,female,US,Chronic fatigue syndrome,Late lunch,4,3.8095238095,0.1904761905
+37,female,US,Anxiety,Late lunch,1.2307692308,0.7142857143,0.5164835165
+37,female,US,fibromyalgia ,Late lunch,3.6176470588,3.5,0.1176470588
+37,female,US,Depression,Late lunch,1.0769230769,0.5714285714,0.5054945055
+37,female,US,Bipolar Type 1,Superlong nap,1,1.4,-0.4
+37,female,US,Chronic fatigue syndrome,Superlong nap,4,3.875,0.125
+37,female,US,Anxiety,Superlong nap,1.5,0.875,0.625
+37,female,US,Migraine,Superlong nap,2.3888888889,2.3333333333,0.0555555556
+37,female,US,fibromyalgia ,Superlong nap,3.6129032258,3.6,0.0129032258
+37,female,US,Depression,Superlong nap,0,0.8125,-0.8125
+37,female,US,Bipolar Type 1,ate breakfast,1,1.3333333333,-0.3333333333
+37,female,US,Chronic fatigue syndrome,ate breakfast,4,3.8787878788,0.1212121212
+37,female,US,Anxiety,ate breakfast,1,0.9090909091,0.0909090909
+37,female,US,Migraine,ate breakfast,2.3888888889,2.3333333333,0.0555555556
+37,female,US,fibromyalgia ,ate breakfast,3.6,3.6666666667,-0.0666666667
+37,female,US,Depression,ate breakfast,0,0.7878787879,-0.7878787879
+37,female,US,Bipolar Type 1,banana,1.2,1.3333333333,-0.1333333333
+37,female,US,Chronic fatigue syndrome,banana,4,3.8518518519,0.1481481481
+37,female,US,Anxiety,banana,1.1428571429,0.8518518519,0.291005291
+37,female,US,Migraine,banana,2.45,1,1.45
+37,female,US,fibromyalgia ,banana,3.6060606061,3.6666666667,-0.0606060606
+37,female,US,Depression,banana,0.7142857143,0.7777777778,-0.0634920635
+37,female,US,Bipolar Type 1,day at home,1.1666666667,1.5,-0.3333333333
+37,female,US,Chronic fatigue syndrome,day at home,4,3.84,0.16
+37,female,US,Anxiety,day at home,1.3333333333,0.76,0.5733333333
+37,female,US,fibromyalgia ,day at home,3.6176470588,3.5,0.1176470588
+37,female,US,Depression,day at home,1.1111111111,0.64,0.4711111111
+37,female,US,Bipolar Type 1,depo-provera shot,1.2,1.3333333333,-0.1333333333
+37,female,US,Chronic fatigue syndrome,depo-provera shot,4,3.8461538462,0.1538461538
+37,female,US,Anxiety,depo-provera shot,1.25,0.8076923077,0.4423076923
+37,female,US,Migraine,depo-provera shot,2.45,1,1.45
+37,female,US,fibromyalgia ,depo-provera shot,3.6060606061,3.6666666667,-0.0606060606
+37,female,US,Depression,depo-provera shot,1,0.6923076923,0.3076923077
+37,female,US,Bipolar Type 1,exercise,1.1666666667,1.5,-0.3333333333
+37,female,US,Chronic fatigue syndrome,exercise,4,3.8260869565,0.1739130435
+37,female,US,Anxiety,exercise,1.3636363636,0.6956521739,0.6679841897
+37,female,US,fibromyalgia ,exercise,3.6176470588,3.5,0.1176470588
+37,female,US,Depression,exercise,1.0909090909,0.6086956522,0.4822134387
+37,female,US,Bipolar Type 1,long sleep,1.1666666667,1.5,-0.3333333333
+37,female,US,Chronic fatigue syndrome,long sleep,4,3.8095238095,0.1904761905
+37,female,US,Anxiety,long sleep,1.2307692308,0.7142857143,0.5164835165
+37,female,US,fibromyalgia ,long sleep,3.6176470588,3.5,0.1176470588
+37,female,US,Depression,long sleep,1.0769230769,0.5714285714,0.5054945055
+37,female,US,Chronic fatigue syndrome,nap,3.9047619048,3.8461538462,0.0586080586
+37,female,US,Anxiety,nap,1,0.7692307692,0.2307692308
+37,female,US,Depression,nap,0.7619047619,0.7692307692,-0.0073260073
+37,female,US,Chronic fatigue syndrome,over ate,3.9032258065,3.6666666667,0.2365591398
+37,female,US,Anxiety,over ate,0.8709677419,1.3333333333,-0.4623655914
+37,female,US,Depression,over ate,0.7096774194,1.3333333333,-0.623655914
+37,female,US,Chronic fatigue syndrome,vacation,3.9,3.75,0.15
+37,female,US,Anxiety,vacation,0.8666666667,1.25,-0.3833333333
+37,female,US,Depression,vacation,0.7333333333,1,-0.2666666667
+37,female,US,Migraine,walked,2.5714285714,2,0.5714285714
+37,female,US,major depressive disorder,walked,2.6956521739,3,-0.3043478261
+37,female,US,Borderline personality disorder,walked,2.8260869565,2.75,0.0760869565
+37,female,US,fibromyalgia ,walked,3.7391304348,3.3846153846,0.3545150502
+37,female,US,Bipolar Type 1,windsurfing,1,1.3333333333,-0.3333333333
+37,female,US,Chronic fatigue syndrome,windsurfing,4,3.8787878788,0.1212121212
+37,female,US,Anxiety,windsurfing,1,0.9090909091,0.0909090909
+37,female,US,Migraine,windsurfing,2.3888888889,2.3333333333,0.0555555556
+37,female,US,fibromyalgia ,windsurfing,3.6,3.6666666667,-0.0666666667
+37,female,US,Depression,windsurfing,0,0.7878787879,-0.7878787879

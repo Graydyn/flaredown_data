@@ -1,9 +1,6 @@
-Mersyndol Forte,online admin tasks,Had to leave work,Exercise--walking,Ibuprofen,active morning,Cambia,high blood pressure,row
-,2.0,2.0,0.0,0.0,2.0,0.0,2.0,Mersyndol Forte
-2.0,,0.0,2.0,2.0,0.0,2.0,0.0,online admin tasks
-2.0,0.0,,2.0,2.0,0.0,2.0,0.0,Had to leave work
-0.0,2.0,2.0,,0.0,2.0,0.0,2.0,Exercise--walking
-0.0,2.0,2.0,0.0,,2.0,0.0,2.0,Ibuprofen
-2.0,0.0,0.0,2.0,2.0,,2.0,0.0,active morning
-0.0,2.0,2.0,0.0,0.0,2.0,,2.0,Cambia
-2.0,0.0,0.0,2.0,2.0,0.0,2.0,,high blood pressure
+Mersyndol Forte,active morning,Exercise--walking,Cambia,Ibuprofen,row
+,2.0,0.0,0.0,0.0,Mersyndol Forte
+2.0,,2.0,2.0,2.0,active morning
+0.0,2.0,,0.0,0.0,Exercise--walking
+0.0,2.0,0.0,,0.0,Cambia
+0.0,2.0,0.0,0.0,,Ibuprofen

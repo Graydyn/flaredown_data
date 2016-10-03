@@ -1,9 +1,4 @@
-tired,exhausting,Acetyl-l-carnitine,Zinc,stressed,Vitamin d+calcium,Changing,travel day,row
-,0.0,0.0,0.0,0.0,0.0,2.0,2.0,tired
-0.0,,0.0,0.0,0.0,0.0,2.0,2.0,exhausting
-0.0,0.0,,0.0,0.0,0.0,2.0,2.0,Acetyl-l-carnitine
-0.0,0.0,0.0,,0.0,0.0,2.0,2.0,Zinc
-0.0,0.0,0.0,0.0,,0.0,2.0,2.0,stressed
-0.0,0.0,0.0,0.0,0.0,,2.0,2.0,Vitamin d+calcium
-2.0,2.0,2.0,2.0,2.0,2.0,,0.0,Changing
-2.0,2.0,2.0,2.0,2.0,2.0,0.0,,travel day
+Vitamin d+calcium,Acetyl-l-carnitine,Zinc,row
+,0.0,0.0,Vitamin d+calcium
+0.0,,0.0,Acetyl-l-carnitine
+0.0,0.0,,Zinc

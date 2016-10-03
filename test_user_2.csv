@@ -1,0 +1,51 @@
+age,sex,country,condition,treatment,before_value,after_value,effectiveness
+34,female,US,Constipation,5-htp,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Acupuncture,2.1219512195,1,1.1219512195
+34,female,US,Constipation,Allegra,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Allergy Shots,2.0869565217,1.9682539683,0.1187025535
+34,female,US,Constipation,Astelin,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Claritin,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,CoQ10,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Famotidine,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Fish oil,2.1333333333,1.9718309859,0.1615023474
+34,female,US,Constipation,Goth clubbing,2.1111111111,2,0.1111111111
+34,female,US,Constipation,Klonopin,2.1,1.9696969697,0.1303030303
+34,female,US,Constipation,Magnesium glycinate,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Melatonin,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Nasonex,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Singulair,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Strattera,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Synthroid,2.1219512195,2,0.1219512195
+34,female,US,Constipation,Vitamin C,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Vitamin b complex,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Vitamin b12,2.1333333333,1.9718309859,0.1615023474
+34,female,US,Constipation,Vitamin d,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,Zinc,2.1428571429,1.9722222222,0.1706349206
+34,female,US,Constipation,birth control,2.1111111111,1.9705882353,0.1405228758
+34,female,US,Constipation,therapy session,2.1333333333,1.9718309859,0.1615023474
+34,female,US,Constipation,tumeric extract,2.0857142857,0,2.0857142857
+34,female,US,Depression,5-htp,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Acupuncture,1.6829268293,2,-0.3170731707
+34,female,US,Depression,Allegra,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Allergy Shots,1.9130434783,1.9841269841,-0.0710835059
+34,female,US,Depression,Astelin,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Claritin,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,CoQ10,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Famotidine,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Fish oil,1.8666666667,1.985915493,-0.1192488263
+34,female,US,Depression,Goth clubbing,1.6888888889,1,0.6888888889
+34,female,US,Depression,Klonopin,1.9,1.9848484849,-0.0848484848
+34,female,US,Depression,Magnesium glycinate,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Melatonin,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Nasonex,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Singulair,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Strattera,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Synthroid,1.6829268293,1.75,-0.0670731707
+34,female,US,Depression,Vitamin C,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Vitamin b complex,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Vitamin b12,1.8666666667,1.985915493,-0.1192488263
+34,female,US,Depression,Vitamin d,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,Zinc,1.8571428571,1.9861111111,-0.128968254
+34,female,US,Depression,birth control,1.8333333333,2,-0.1666666667
+34,female,US,Depression,therapy session,1.8666666667,1.985915493,-0.1192488263
+34,female,US,Depression,tumeric extract,1.8695652174,3,-1.1304347826

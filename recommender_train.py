@@ -28,7 +28,7 @@ file = sys.argv[1]
 modeldir = sys.argv[2]
 
 distance_metric = 'cosine'
-if len(sys.argv) == 4:
+if len(sys.argv) >= 4:
     if (sys.argv[3] == 'pearson') or (sys.argv[3] == 'cosine'):
         distance_metric = sys.argv[3]
     else:
@@ -55,8 +55,7 @@ def find_distances(condition_rows, treatment, other_treatments, condition):
                 if len(treatment1_values) > 1 : #can't compare scalars in pearson
                     pearson_result = pearsonr(treatment1_values, treatment2_values)
                     correlation = pearson_result[0]
-                    if pearson_result[1] > threshold:
-                        print "found significant correlation!"
+                    if pearson_result[1] < threshold:
                         treatment_correlations[treatment2] = correlation
     return treatment_correlations
 
@@ -79,4 +78,3 @@ for condition in conditions:
         result = result.append(distances, ignore_index=True)
 
     result.to_csv(modeldir + '/' + condition.replace('/', '').replace("\n","").replace("\r","") + "_" + distance_metric + ".csv", index=False)
-    #print result

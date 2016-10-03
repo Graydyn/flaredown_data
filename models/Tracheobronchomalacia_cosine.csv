@@ -1,12 +1,2 @@
-doctor,Nervous,got new diagnosis,social,good sleep,bad sleep,walked,cleaned,Stomach hurts,nightmare,did stuff all day,row
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,doctor
-0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nervous
-0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,got new diagnosis
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,social
-0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,good sleep
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,bad sleep
-0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,walked
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,cleaned
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,Stomach hurts
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,nightmare
-0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,did stuff all day
+walked,row
+,walked

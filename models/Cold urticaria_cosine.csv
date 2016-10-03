@@ -1,4 +1,3 @@
-test,Klonopin,Lamictal,row
-,,,test
-,,0.0,Klonopin
-,0.0,,Lamictal
+Klonopin,Lamictal,row
+,0.0,Klonopin
+0.0,,Lamictal

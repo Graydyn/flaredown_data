@@ -1,0 +1,12 @@
+cheese,overeating,singing,ate salsa,ate rice,ate rice last night,ate tomatoes,swimming,ate cheese-again,farm work,bread,row
+,,,,,,,,,,,cheese
+,,,,,,,,,,,overeating
+,,,-1.0,-1.0,1.0,-1.0,,1.0,,,singing
+,,-1.0,,1.0,-1.0,1.0,,-1.0,,,ate salsa
+,,-1.0,1.0,,-1.0,1.0,,-1.0,,,ate rice
+,,1.0,-1.0,-1.0,,-1.0,,1.0,,,ate rice last night
+,,-1.0,1.0,1.0,-1.0,,,-1.0,,,ate tomatoes
+,,,,,,,,,,,swimming
+,,1.0,-1.0,-1.0,1.0,-1.0,,,,,ate cheese-again
+,,,,,,,,,,,farm work
+,,,,,,,,,,,bread

@@ -1,11 +1,4 @@
-cramps,slept well,played games,day off,sore jaw - stress,12K Steps,Physio,Slept all day,ate breakfast,Headache,row
-,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,cramps
-0.0,,0.0,,0.0,0.0,0.0,0.0,,0.0,slept well
-0.0,0.0,,,0.0,0.0,0.0,0.0,,0.0,played games
-,,,,,,,,0.0,,day off
-0.0,0.0,0.0,,,0.0,0.0,0.0,,0.0,sore jaw - stress
-0.0,0.0,0.0,,0.0,,0.0,0.0,,0.0,12K Steps
-0.0,0.0,0.0,,0.0,0.0,,0.0,,0.0,Physio
-0.0,0.0,0.0,,0.0,0.0,0.0,,,0.0,Slept all day
-,,,0.0,,,,,,,ate breakfast
-0.0,0.0,0.0,,0.0,0.0,0.0,0.0,,,Headache
+12K Steps,Physio,ate breakfast,row
+,0.0,,12K Steps
+0.0,,,Physio
+,,,ate breakfast

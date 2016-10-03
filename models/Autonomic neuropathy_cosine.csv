@@ -1,9 +1,6 @@
-gluten,hiking,Superlong nap,good sleep,ate breakfast,PTSD,exercise,happy,row
-,0.0,0.0,0.0,0.0,0.0,0.0,0.0,gluten
-0.0,,0.0,,,,,,hiking
-0.0,0.0,,,,,,,Superlong nap
-0.0,,,,0.0,0.0,0.0,0.0,good sleep
-0.0,,,0.0,,0.0,0.0,0.0,ate breakfast
-0.0,,,0.0,0.0,,0.0,0.0,PTSD
-0.0,,,0.0,0.0,0.0,,0.0,exercise
-0.0,,,0.0,0.0,0.0,0.0,,happy
+ate breakfast,Superlong nap,gluten,hiking,exercise,row
+,,0.0,,0.0,ate breakfast
+,,0.0,0.0,,Superlong nap
+0.0,0.0,,0.0,0.0,gluten
+,0.0,0.0,,,hiking
+0.0,,0.0,,,exercise
