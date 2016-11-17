@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# don't include third-party dependencies.
+lib/
+!lib/README.md
+.DS_Store
+.idea
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
